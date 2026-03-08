@@ -62,14 +62,14 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Certificates & Activities
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ampsoria&show_icons=true&theme=radical" alt="Amp's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampsoria&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+Explore my verified achievements, training, and extra-curricular activities:
+
+**📜 View my Gallery:** <a href="ใส่ลิงก์ของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/Click_Here!!!-FFB000?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Gallery" /></a>
 
 ---
+
 
 ### 📫 Let's Connect!
 <p align="left">
