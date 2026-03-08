@@ -58,7 +58,9 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
   * Developed a hybrid platform integrating **Java Swing** and **PHP** with **BCrypt** security.
   * Designed role-based dashboards for real-time monitoring.
 
-* 🐾 **Paw Move (Startup Thailand League 2025):** * Pitched a business model and technical solution for a pet transportation application.
+* * 🖥️ **AR Computer Components Explorer:** <a href="https://youtu.be/Auz_2eqdpGE" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
+  * Developed an educational Augmented Reality (AR) application using **Unity** to visualize computer hardware.
+  * Created interactive 3D models for users to study essential internal components such as CPUs, GPUs, RAM, and Mainboards.
 
 ---
 
