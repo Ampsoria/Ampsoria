@@ -58,7 +58,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
   * Engineered **MATLAB** autonomous flight algorithms to neutralize targets.
   * Built a **React** dashboard displaying live GPS telemetry.
 
-* 🚗 **Parking Management System:** <a href="ใส่ลิงก์Repoของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
+* 🚗 **Parking Management System:** <a href="https://github.com/Ampsoria/HCU_ParkingSystem"target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
   * Full Stack Developer for a comprehensive parking solution.
   * Developed a hybrid platform integrating **Java Swing** and **PHP** with **BCrypt** security.
   * Designed role-based dashboards for real-time monitoring.
