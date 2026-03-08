@@ -7,7 +7,7 @@
       <td>
         <h1>Hi there, I'm Gorrawit Puttabarramee! (Amp) 👋</h1>
         <h3>B.Sc. Computer Science Student</h3>
-        <p><b>Aspiring Software Devoloper & Cybersecurity Enthusiast</b></p>
+        <p><b>Aspiring Software Developer & Cybersecurity Enthusiast</b></p>
         <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
       </td>
     </tr>
@@ -58,9 +58,17 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
   * Developed a hybrid platform integrating **Java Swing** and **PHP** with **BCrypt** security.
   * Designed role-based dashboards for real-time monitoring.
 
-* * 🖥️ **AR Computer Components Explorer:** <a href="https://youtu.be/Auz_2eqdpGE" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
+* 🖥️ **AR Computer Components Explorer:** <a href="https://youtu.be/Auz_2eqdpGE" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
   * Developed an educational Augmented Reality (AR) application using **Unity** to visualize computer hardware.
   * Created interactive 3D models for users to study essential internal components such as CPUs, GPUs, RAM, and Mainboards.
+
+---
+
+### 📄 Resume
+
+Want to know more about my academic background and experiences? 
+
+**📂 Download my full resume:** <a href="ใส่ลิงก์เรซูเม่ของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume" /></a>
 
 ---
 
