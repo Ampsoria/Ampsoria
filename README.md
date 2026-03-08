@@ -49,16 +49,17 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
 
 ### 🚀 Highlighted Projects
 
-* 🛡️ **Anti-Drone System (TESA TOP GUN RALLY 2025):** <a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
+* 🛡️ **Anti-Drone System (TESA TOP GUN RALLY 2025):** <a href="ใส่ลิงก์Repoของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> <a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
   * Developed a real-time detection system using **YOLOv8** to calculate precise GPS coordinates for threat localization.
   * Engineered **MATLAB** autonomous flight algorithms to neutralize targets.
   * Built a **React** dashboard displaying live GPS telemetry.
 
-* 🚗 **Parking Management System:** * Full Stack Developer for a comprehensive parking solution.
+* 🚗 **Parking Management System:** <a href="ใส่ลิงก์Repoของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
+  * Full Stack Developer for a comprehensive parking solution.
   * Developed a hybrid platform integrating **Java Swing** and **PHP** with **BCrypt** security.
   * Designed role-based dashboards for real-time monitoring.
 
-* 🖥️ **AR Computer Components Explorer:** <a href="https://youtu.be/Auz_2eqdpGE" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
+* 🖥️ **AR Computer Components Explorer:** <a href="ใส่ลิงก์Repoของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> <a href="https://youtu.be/Auz_2eqdpGE" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
   * Developed an educational Augmented Reality (AR) application using **Unity** to visualize computer hardware.
   * Created interactive 3D models for users to study essential internal components such as CPUs, GPUs, RAM, and Mainboards.
 
