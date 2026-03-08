@@ -1,4 +1,4 @@
-<img src="ใส่ชื่อไฟล์รูปแบนเนอร์ของคุณตรงนี้" alt="Amp's Banner" width="100%" />
+<img src="Logo AMPSORIA​ #6.png" alt="Amp's Banner" width="100%" />
 
 <div align="center">
   <table>
