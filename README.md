@@ -5,7 +5,7 @@
         <img src="ampreadme.png" alt="Amp's Profile Picture" width="200" />
       </td>
       <td>
-        <h1>Hi there, I'm Amp (Gorrawit)! 👋</h1>
+        <h1>Hi there, I'm Gorrawit Puttabarramee! (Amp) 👋</h1>
         <h3>B.Sc. Computer Science Student</h3>
         <p><b>Aspiring Software Devoloper & Cybersecurity Enthusiast</b></p>
         <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -15,8 +15,6 @@
 </div>
 
 ---
-
-
 
 ### 👨‍💻 About Me
 I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. **I am currently looking for a 4-month internship** to apply my foundational skills to real-world challenges, assist with daily operations, and learn from experienced professionals. 
@@ -40,9 +38,11 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
 
-**Networking & Security:** ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge)
+**Networking & Security:** ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-Security-red?style=for-the-badge)
 
 ---
@@ -66,10 +66,9 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
 
 Explore my verified achievements, training, and extra-curricular activities:
 
-**📜 View my Gallery:** <a href="ใส่ลิงก์เว็บไซต์ของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/Click_Here!!!-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Gallery" /></a> /></a>
+**📜 View my Gallery:** <a href="ใส่ลิงก์เว็บไซต์ของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/Click_Here!!!-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Gallery" /></a>
 
 ---
-
 
 ### 📫 Let's Connect!
 <p align="left">
