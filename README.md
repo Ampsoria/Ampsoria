@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. **I am currently looking for a 4-month internship** to apply my foundational skills to real-world challenges, assist with daily operations, and learn from experienced professionals. 
 
-When I'm taking a break from the screen, I'm usually hitting the bars for some Calisthenics, diving into the deep lore of *Lord of the Mysteries* or *JoJo's Bizarre Adventure*, or just relaxing with some games. 
+When I'm taking a break from the screen, I'm usually hitting the bars for some Calisthenics or just relaxing with some games. 
 
 ---
 
