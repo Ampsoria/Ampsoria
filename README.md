@@ -62,11 +62,10 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
 
 ---
 
-### 🏆 Certificates & Activities
+### 🔥 Milestones & Side Quests
+Pushing the limits off-screen. Dive into my certifications, competitions, and extra-curricular grinds.
 
-Explore my verified achievements, training, and extra-curricular activities:
-
-**📜 View my Gallery:** <a href="ใส่ลิงก์ของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/Click_Here!!!-FFB000?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Gallery" /></a>
+**📜 View my Gallery:** <a href="ใส่ลิงก์เว็บไซต์ของคุณตรงนี้" target="_blank"><img src="https://img.shields.io/badge/Click_Here!!!-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Gallery" /></a> /></a>
 
 ---
 
