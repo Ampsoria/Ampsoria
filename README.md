@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ampsoria_banner.png" alt="Amp's Banner" width="50%" />
+  <img src="ampsoria_banner.png" alt="Amp's Banner" width="30%" />
 </div>
 
 <div align="center">
