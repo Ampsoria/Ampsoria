@@ -75,5 +75,5 @@ Pushing the limits off-screen. Dive into my certifications, competitions, and ex
   <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Ampsoria"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://line.me/ti/p/_Fi2eW968Q"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line ID: amp2648" /></a>
-  <a href="tel:(+66)654986129"><img src="https://img.shields.io/badge/Phone-065--498--6129-0078D4?style=for-the-badge" alt="Phone: 0654986129" /></a>
+  <a href="tel:+66654986129"><img src="https://img.shields.io/badge/Phone-(%2B66)_65--498--6129-0078D4?style=for-the-badge" alt="Phone: (+66) 65-498-6129" /></a>
 </p>
