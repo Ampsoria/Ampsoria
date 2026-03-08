@@ -1,4 +1,4 @@
-<img src="Logo AMPSORIA​ #6.png" alt="Amp's Banner" width="100%" />
+<img src="Logo_AMPSORIA​_#6.png" alt="Amp's Banner" width="100%" />
 
 <div align="center">
   <table>
