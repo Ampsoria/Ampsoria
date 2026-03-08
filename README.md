@@ -7,7 +7,7 @@
       <td>
         <h1>Hi there, I'm Amp (Gorrawit)! 👋</h1>
         <h3>B.Sc. Computer Science Student</h3>
-        <p><b>Aspiring Software Engineer & Cybersecurity Enthusiast</b></p>
+        <p><b>Aspiring Software Devoloper & Cybersecurity Enthusiast</b></p>
         <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
       </td>
     </tr>
