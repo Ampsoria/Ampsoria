@@ -1,12 +1,22 @@
 <div align="center">
-  <img src="ampreadme.jpg" alt="Amp's Profile Picture" width="200" />
-  <h1>Hi there, I'm Amp (Gorrawit)! 👋</h1>
-  <h3>B.Sc. Computer Science Student | Aspiring Software Engineer & Cybersecurity Enthusiast</h3>
-  <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="ampreadme.png" alt="Amp's Profile Picture" width="200" />
+      </td>
+      <td>
+        <h1>Hi there, I'm Amp (Gorrawit)! 👋</h1>
+        <h3>B.Sc. Computer Science Student</h3>
+        <p><b>Aspiring Software Engineer & Cybersecurity Enthusiast</b></p>
+        <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
----
+
+
 
 ### 👨‍💻 About Me
 I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. **I am currently looking for a 4-month internship** to apply my foundational skills to real-world challenges, assist with daily operations, and learn from experienced professionals. 
