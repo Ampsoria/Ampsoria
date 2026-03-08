@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Gorrawit Puttabarramee! (Amp) 👋</h1>
+  <img src="ampreadme.png" alt="Amp's Profile Picture" width="200" />
+  <h1>Hi there, I'm Amp (Gorrawit)! 👋</h1>
   <h3>B.Sc. Computer Science Student | Aspiring Software Engineer & Cybersecurity Enthusiast</h3>
   <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
+---
 ---
 
 ### 👨‍💻 About Me
