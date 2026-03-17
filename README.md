@@ -67,6 +67,13 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
 * 🖥️ **AR Computer Components Explorer:** <a href="https://youtu.be/Auz_2eqdpGE" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
   * Developed an educational Augmented Reality (AR) application using **Unity** to visualize computer hardware.
   * Created interactive 3D models for users to study essential internal components such as CPUs, GPUs, RAM, and Mainboards.
+ 
+  * 🩺 **Pressure Monitoring System (IoT):** <a href="https://github.com/Ampsoria/DetectPressure_Iot" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> <a href="https://youtu.be/liJJjYXSja4?si=EtUMND9SOJLoT3qW" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
+  * Developed a real-time IoT pressure monitoring system using **ESP32 + RFP-602 sensor** for patient bedsore prevention.
+  * Engineered **Firebase Realtime Database** integration for live data streaming and secure authentication.
+  * Built a **glassmorphism dark-themed web dashboard** with live pressure gauge and **Chart.js** history visualization.
+  * Implemented **Telegram Bot** alerts for abnormal pressure detection and continuous pressure warnings.
+
 
 ---
 
