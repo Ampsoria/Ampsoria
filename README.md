@@ -1,21 +1,12 @@
 <div align="center">
-  <img src="ampsoria_banner.png" alt="Amp's Banner" width="25%" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <img src="ampreadme.png" alt="Amp's Profile Picture" width="200" />
-      </td>
-      <td>
-        <h1>Hi there, I'm Gorrawit Puttabarramee! (Amp) 👋</h1>
-        <h3>B.Sc. Computer Science Student</h3>
-        <p><b>Aspiring Software Developer & Cybersecurity Enthusiast</b></p>
-        <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-      </td>
-    </tr>
-  </table>
+  <h1>Hi there, I'm Gorrawit Puttabarramee! (Amp) 👋</h1>
+  <h3>B.Sc. Computer Science Student</h3>
+  <p><b>Aspiring Software Developer & Cybersecurity Enthusiast</b></p>
+  <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br><br>
+  <a href="https://youtu.be/xAbRMaLxZ8s?si=QAx6up6UTsQ1A2Mj" target="_blank">
+    <img src="https://img.shields.io/badge/Watch_My_Intro_for_Metro_Systems_Corp.-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intro Video for Metro Systems Corporation" />
+  </a>
 </div>
 
 ---
@@ -29,13 +20,16 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
 
 ### 🛠️ Languages & Tools
 
-**Programming Languages & Databases:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+**Programming Languages, Frameworks & Databases:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 **Tools & Platforms:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
