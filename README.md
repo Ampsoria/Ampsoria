@@ -93,4 +93,14 @@ Want to know more about my academic background and experiences?
 
 Explore my verified achievements, training, and extra-curricular activities:
 
-**📜 View my Gallery:** <a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/" target="_blank"><img src="
+**📜 View my Gallery:** <a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/" target="_blank"><img src="https://img.shields.io/badge/Click_Here!!!-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Gallery" /></a>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Ampsoria"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://line.me/ti/p/_Fi2eW968Q"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line ID: amp2648" /></a>
+  <a href="tel:+66654986129"><img src="https://img.shields.io/badge/Phone-(%2B66)_65--498--6129-0078D4?style=for-the-badge" alt="Phone: (+66) 65-498-6129" /></a>
+</p>
