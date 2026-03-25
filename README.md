@@ -85,7 +85,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some C
 
 Want to know more about my academic background and experiences? 
 
-**📂 Download my full resume:** <a href="https://drive.google.com/file/d/1na4MGOlD8MUaB7ZYrfTUY6X421vUSpit/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume" /></a>
+**📂 Download my full resume:** <a href="https://drive.google.com/file/d/1_k4EzkfgabGb-_Ckyv8APgReRibXGuYx/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume" /></a>
 
 ---
 
