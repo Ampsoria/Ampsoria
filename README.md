@@ -10,9 +10,6 @@
         <p><b>Aspiring Software Developer & Cybersecurity Enthusiast</b></p>
         <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
         <br><br>
-        <a href="https://youtu.be/xAbRMaLxZ8s?si=QAx6up6UTsQ1A2Mj" target="_blank">
-          <img src="https://img.shields.io/badge/Watch_My_Intro_for_Metro_Systems_Corp.-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Intro Video for Metro Systems Corporation" />
-        </a>
       </td>
     </tr>
   </table>
