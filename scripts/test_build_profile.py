@@ -4,9 +4,11 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+import xml.etree.ElementTree as ET
 from unittest.mock import patch
 
 import build_profile as profile
+import profile_extras
 
 
 def repo(name, *, fork=False, language="Python", stars=1, pushed="2026-01-01T00:00:00Z"):
@@ -55,6 +57,20 @@ class RefreshTests(unittest.TestCase):
         profile.dashboard()
         self.assertTrue((self.out / "github-stats.svg").is_file())
         self.assertTrue((self.out / "github-activity.svg").is_file())
+
+    def test_garden_count_and_visible_cap_are_honest(self):
+        for count, expected in [(0, 0), (25, 25), (100, 49)]:
+            with self.subTest(repositories=count):
+                profile_extras.garden(profile.svg, profile.text, profile.flower,
+                                      {"original_repos": count, "updated_at": "2026-10-14 07:00 UTC"})
+                for theme in ("dark", "light"):
+                    root = ET.parse(self.out / f"project-garden-{theme}.svg").getroot()
+                    blooms = [el for el in root.iter() if el.get("data-repo-flower") == "true"]
+                    self.assertEqual(len(blooms), expected)
+                    description = root.find("{http://www.w3.org/2000/svg}desc").text
+                    self.assertIn(f"{count} public non-fork repositories", description)
+                    if count > 49:
+                        self.assertIn(f"Showing 49 of {count}", description)
 
 
 if __name__ == "__main__":

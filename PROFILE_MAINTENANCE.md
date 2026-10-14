@@ -22,8 +22,8 @@ scripts, external fonts, or externally loaded images inside the SVGs.
 
 The header uses `<picture>` for light/dark variants. Tech cards wrap individually
 on narrow screens. Navigation, contact links, and the expandable activity panel
-use native GitHub README markup. Shields.io buttons remain external services; local artwork does not depend on
-them. The header uses a local decorative welcome badge. The external Komarev
+use native GitHub README markup. All README buttons and artwork are now local assets, including the former
+Shields.io buttons. The README does not hotlink any external images. The header uses a local decorative welcome badge. The external Komarev
 visitor counter was removed after repeated loading failures; the replacement
 does not display or claim a visitor count.
 
@@ -93,3 +93,30 @@ introduces the Tech Stack; the maker ribbon introduces Projects. A small waving
 mascot also decorates the contact section. All original PNGs and exact generation
 prompts are in `assets/illustrations/`. Ribbons have rounded Nunito lettering,
 falling petals and gentle floating motion, with reduced-motion support.
+
+
+## Cozy extras
+
+`scripts/profile_extras.py` builds all new extras through the existing SVG/font
+renderer. It adds no network requests, dependencies, tracking, or user scripts.
+
+- **Character card:** an expandable game-inspired presentation of existing facts;
+  no invented skill scores, credentials, or employment status.
+- **Adventure menu:** native GitHub `<details>` links to code, the Shanghai guide,
+  and the cozy corner. It works without JavaScript.
+- **Project garden:** one gently swaying flower per public non-fork repository,
+  using `original_repos` from `github-data.json`. Display caps at 49 flowers and
+  explicitly labels the cap when necessary. This is not a contribution calendar.
+  Light/dark versions show the same count and snapshot time.
+- **Mochi:** a small original SVG cat animation, with breathing, a moving tail and
+  tea steam. It is decorative, not an interactive pet application.
+- **Daily note:** one of seven short messages selected deterministically from the
+  snapshot's UTC calendar date, and refreshed by the existing daily workflow.
+  No claim of real-time updates or personal predictions.
+- **Secret corner:** a paw-print trail and a nested click-to-reveal souvenir stamp.
+  The playful achievement is not a professional certificate.
+- **Local buttons:** repository, demo, resume, gallery and contact links use local
+  pink SVG buttons. Destination URLs and accessible labels remain unchanged.
+
+All animation honors `prefers-reduced-motion`; all meaningful images have alt text.
+The supplementary panels are collapsible to keep the main profile readable.

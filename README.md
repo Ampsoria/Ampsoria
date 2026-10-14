@@ -17,6 +17,7 @@
     <a href="#projects">Projects</a> &nbsp; / &nbsp;
     <a href="#activity">GitHub Pulse</a> &nbsp; / &nbsp;
     <a href="#credentials">Resume &amp; Certificates</a> &nbsp; / &nbsp;
+    <a href="#cozy">Cozy Corner</a> &nbsp; / &nbsp;
     <a href="#connect">Connect</a>
   </p>
 </div>
@@ -36,6 +37,29 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 `Coding` &nbsp; `System Design` &nbsp; `Network Security` &nbsp; `Calisthenics` &nbsp; `Gaming`
 
 <br clear="right" />
+
+<details>
+  <summary><b>🪪 Open my developer character card</b></summary>
+  <br />
+  <p align="center"><img src="assets/generated/character-card.svg" width="640" alt="Amp's character card: 4th-year Computer Science at Huachiew Chalermprakiet University; coding, systems, security, calisthenics and games." /></p>
+</details>
+
+<details>
+  <summary><b>🧭 Pick a little adventure</b></summary>
+  <br />
+  <details>
+    <summary><b>💻 The code quest</b></summary>
+    <p>Start with my <a href="#stack">toolkit</a>, explore the <a href="#projects">highlighted projects</a>, or browse <a href="https://github.com/Ampsoria?tab=repositories">all my repositories</a>.</p>
+  </details>
+  <details>
+    <summary><b>🌸 The Shanghai detour</b></summary>
+    <p>Explore 30+ attractions, an interactive map and travel filters in my <a href="https://ampsoria.github.io/Shanghai_Solotrip_Guideweb/">Shanghai Solo Trip Guide</a>.</p>
+  </details>
+  <details>
+    <summary><b>🐾 The cozy route</b></summary>
+    <p>Take a tiny break with <a href="#cozy">Mochi</a>, open a little note, and follow the paw prints. Off-screen, I enjoy calisthenics and games.</p>
+  </details>
+</details>
 
 <a id="stack"></a>
 
@@ -125,8 +149,8 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 - Engineered **MATLAB** autonomous flight algorithms to neutralize targets.
 - Built a **React** dashboard displaying live GPS telemetry.
 
-<a href="https://github.com/Ampsoria/Anti-Drone"><img src="https://img.shields.io/badge/Source_Code-fff0f6?style=for-the-badge&logo=github&logoColor=ac557b" alt="Anti-Drone — view repository" /></a>
-<a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX"><img src="https://img.shields.io/badge/Watch_Demo-fff0f6?style=for-the-badge&logo=youtube&logoColor=b14e77" alt="Anti-Drone — watch demo on YouTube" /></a>
+<a href="https://github.com/Ampsoria/Anti-Drone"><img src="assets/generated/button-source.svg" alt="Anti-Drone — view repository" /></a>
+<a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX"><img src="assets/generated/button-demo.svg" alt="Anti-Drone — watch demo on YouTube" /></a>
 
 ---
 
@@ -138,8 +162,8 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 - Built with **HTML5**, **CSS3**, and **Vanilla JavaScript** featuring 30+ attractions with real photos.
 - Includes interactive **Leaflet.js** map, budget/style filters, zone-based recommendations, and CNY-THB converter.
 
-<a href="https://github.com/Ampsoria/Shanghai_Solotrip_Guideweb"><img src="https://img.shields.io/badge/Source_Code-fff0f6?style=for-the-badge&logo=github&logoColor=ac557b" alt="Shanghai Solo Trip Guide — view repository" /></a>
-<a href="https://ampsoria.github.io/Shanghai_Solotrip_Guideweb/"><img src="https://img.shields.io/badge/Explore_Live_Demo-fff0f6?style=for-the-badge&logo=githubpages&logoColor=ac557b" alt="Shanghai Solo Trip Guide — open live demo" /></a>
+<a href="https://github.com/Ampsoria/Shanghai_Solotrip_Guideweb"><img src="assets/generated/button-source.svg" alt="Shanghai Solo Trip Guide — view repository" /></a>
+<a href="https://ampsoria.github.io/Shanghai_Solotrip_Guideweb/"><img src="assets/generated/button-live.svg" alt="Shanghai Solo Trip Guide — open live demo" /></a>
 
 ---
 
@@ -151,7 +175,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 - Developed a hybrid platform integrating **Java Swing** and **PHP** with **BCrypt** security.
 - Designed role-based dashboards for real-time monitoring.
 
-<a href="https://github.com/Ampsoria/HCU_ParkingSystem"><img src="https://img.shields.io/badge/Source_Code-fff0f6?style=for-the-badge&logo=github&logoColor=ac557b" alt="Parking Management System — view repository" /></a>
+<a href="https://github.com/Ampsoria/HCU_ParkingSystem"><img src="assets/generated/button-source.svg" alt="Parking Management System — view repository" /></a>
 
 ---
 
@@ -162,7 +186,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 - Developed an educational Augmented Reality (AR) application using **Unity** to visualize computer hardware.
 - Created interactive 3D models for users to study essential internal components such as CPUs, GPUs, RAM, and Mainboards.
 
-<a href="https://youtu.be/Auz_2eqdpGE"><img src="https://img.shields.io/badge/Watch_Demo-fff0f6?style=for-the-badge&logo=youtube&logoColor=b14e77" alt="AR Computer Components Explorer — watch demo on YouTube" /></a>
+<a href="https://youtu.be/Auz_2eqdpGE"><img src="assets/generated/button-demo.svg" alt="AR Computer Components Explorer — watch demo on YouTube" /></a>
 
 <img src="assets/generated/divider.svg" width="100%" alt="" />
 
@@ -176,6 +200,15 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
     <img src="assets/generated/github-stats.svg" width="100%" alt="Amp's public GitHub statistics — repository counts, stars on non-fork repositories, and followers. Updated timestamp is displayed on the card." />
   </picture>
 </a>
+
+<p align="center">
+  <a href="https://github.com/Ampsoria?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="assets/generated/project-garden-light.svg" />
+      <img src="assets/generated/project-garden-dark.svg" width="640" alt="My little project garden: one swaying blossom per public non-fork repository, up to 49. The card shows the total and snapshot time." />
+    </picture>
+  </a>
+</p>
 
 <details>
   <summary><b>Explore my language landscape &amp; recent projects</b></summary>
@@ -197,7 +230,7 @@ Want to know more about my academic background and experiences?
 
 **📂 Download my full resume:**
 
-<a href="https://drive.google.com/file/d/1_k4EzkfgabGb-_Ckyv8APgReRibXGuYx/view?usp=drivesdk"><img src="https://img.shields.io/badge/View_My_Resume-eaa0be?style=for-the-badge&logo=googledocs&logoColor=843859" alt="View my full resume on Google Drive" /></a>
+<a href="https://drive.google.com/file/d/1_k4EzkfgabGb-_Ckyv8APgReRibXGuYx/view?usp=drivesdk"><img src="assets/generated/button-resume.svg" alt="View my full resume on Google Drive" /></a>
 
 ### 🏆 Certificates & Activities
 
@@ -205,13 +238,42 @@ Explore my verified achievements, training, and extra-curricular activities:
 
 **📜 View my Gallery:**
 
-<a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/"><img src="https://img.shields.io/badge/Explore_the_Gallery-f3b9d4?style=for-the-badge&logo=githubpages&logoColor=843859" alt="View my certificates and activities gallery" /></a>
+<a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/"><img src="assets/generated/button-gallery.svg" alt="View my certificates and activities gallery" /></a>
+
+<img src="assets/generated/divider.svg" width="100%" alt="" />
+
+<a id="cozy"></a>
+
+## 🌸 06 &nbsp; / &nbsp; A tiny cozy corner
+
+<p align="center">
+  <img src="assets/generated/mochi-break.svg" width="560" alt="Mochi the cream-colored cat naps on a pink laptop, with a gently moving tail and a warm cup beside him. A little pause is part of the process." />
+</p>
+
+<details>
+  <summary><b>💌 Open today's little note</b></summary>
+  <br />
+  <p align="center"><img src="assets/generated/daily-note.svg" width="640" alt="A short encouraging note, dated and refreshed with the daily profile update." /></p>
+</details>
+
+<details>
+  <summary><b>🐾 Psst... follow the tiny paw prints</b></summary>
+  <br />
+  <p align="center"><img src="assets/generated/paw-trail.svg" width="560" alt="Seven pink paw prints lead to a little surprise" /></p>
+  <details>
+    <summary><b>🌸 You found a secret little door. Open it?</b></summary>
+    <br />
+    <p align="center"><img src="assets/generated/secret-stamp.svg" width="560" alt="Tiny secret found! Playful achievement: curiosity. Thanks for wandering by." /></p>
+    <p align="center">A little curiosity brought you here. Thanks for stopping by! 🌸</p>
+    <p align="center"><a href="#projects">Explore a project</a> &nbsp; · &nbsp; <a href="#connect">Say hello</a></p>
+  </details>
+</details>
 
 <img src="assets/generated/divider.svg" width="100%" alt="" />
 
 <a id="connect"></a>
 
-## 🌸 06 &nbsp; / &nbsp; Let's connect!
+## 🌸 07 &nbsp; / &nbsp; Let's connect!
 
 <p align="center">
   <img src="assets/illustrations/sakura-coder.png" width="150" alt="Sakura programmer mascot waving hello" />
@@ -221,10 +283,10 @@ Explore my verified achievements, training, and extra-curricular activities:
 
 <div align="center">
   <br />
-  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/Email-fff0f6?style=for-the-badge&logo=gmail&logoColor=b14e77" alt="Email: ampsoriainyourarea@gmail.com" /></a>
-  <a href="https://github.com/Ampsoria"><img src="https://img.shields.io/badge/GitHub-fff0f6?style=for-the-badge&logo=github&logoColor=843859" alt="GitHub: Ampsoria" /></a>
-  <a href="https://line.me/ti/p/_Fi2eW968Q"><img src="https://img.shields.io/badge/LINE-fff0f6?style=for-the-badge&logo=line&logoColor=ac557b" alt="LINE ID: amp2648" /></a>
-  <a href="tel:+66654986129"><img src="https://img.shields.io/badge/(%2B66)_65--498--6129-fff0f6?style=for-the-badge" alt="Phone: (+66) 65-498-6129" /></a>
+  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="assets/generated/button-email.svg" alt="Email: ampsoriainyourarea@gmail.com" /></a>
+  <a href="https://github.com/Ampsoria"><img src="assets/generated/button-github.svg" alt="GitHub: Ampsoria" /></a>
+  <a href="https://line.me/ti/p/_Fi2eW968Q"><img src="assets/generated/button-line.svg" alt="LINE ID: amp2648" /></a>
+  <a href="tel:+66654986129"><img src="assets/generated/button-phone.svg" alt="Phone: (+66) 65-498-6129" /></a>
   <p>ampsoriainyourarea@gmail.com<br />LINE: amp2648 &nbsp; · &nbsp; (+66) 65-498-6129</p>
   <br />
   <a href="#top">↑ Back to top</a>

@@ -15,6 +15,7 @@ import os
 from pathlib import Path
 import urllib.request
 import xml.etree.ElementTree as ET
+from profile_extras import build as build_extras
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "assets/generated"
@@ -333,6 +334,7 @@ def main():
     accents()
     character_ribbons()
     dashboard()
+    build_extras(svg=svg, text=text, flower=flower, out=OUT)
     print(f"Built {len(list(OUT.glob('*.svg')))} SVG assets")
 
 

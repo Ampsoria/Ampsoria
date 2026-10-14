@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="44" viewBox="0 0 105 44" role="img" aria-labelledby="title desc">
+<title id="title">LINE</title><desc id="desc">LINE</desc>
+<defs>
+<path id="font-800-76" d="M149.52 0Q111.94 0 91.34 20.95Q70.74 41.89 70.74 79.47V628.28Q70.74 666.86 90.84 686.96Q110.94 707.06 148.52 707.06Q186.1 707.06 206.04 686.96Q225.99 666.86 225.99 628.28V130.61H493.75Q526.07 130.61 543.39 113.79Q560.71 96.97 560.71 65.65Q560.71 34.32 543.39 17.16Q526.07 0 493.75 0Z"/><path id="font-800-73" d="M148.52 -8.63Q110.94 -8.63 90.84 12.32Q70.74 33.26 70.74 71.16V633.84Q70.74 672.42 90.84 693.02Q110.94 713.63 148.52 713.63Q186.1 713.63 206.04 693.02Q225.99 672.42 225.99 633.84V71.16Q225.99 33.26 206.54 12.32Q187.1 -8.63 148.52 -8.63Z"/><path id="font-800-78" d="M143.26 -8.63Q108 -8.63 89.37 10.51Q70.74 29.64 70.74 65.59V636.47Q70.74 673.74 89.37 693.68Q108 713.63 138.64 713.63Q165.71 713.63 180.34 703.25Q194.97 692.87 214.11 669.11L564.84 221.6H537.59V640.1Q537.59 675.36 556.22 694.49Q574.86 713.63 610.12 713.63Q645.39 713.63 663.67 694.49Q681.96 675.36 681.96 640.1V62.65Q681.96 29.95 664.99 10.66Q648.01 -8.63 619 -8.63Q590.68 -8.63 574.2 2.1Q557.72 12.82 538.59 36.58L188.54 484.09H215.11V65.59Q215.11 29.64 196.82 10.51Q178.53 -8.63 143.26 -8.63Z"/><path id="font-800-69" d="M152.2 0Q112.63 0 91.68 20.95Q70.74 41.89 70.74 81.47V623.53Q70.74 663.11 91.68 684.05Q112.63 705 152.2 705H500.75Q530.76 705 546.61 689.49Q562.46 673.99 562.46 644.98Q562.46 615.28 546.61 599.43Q530.76 583.58 500.75 583.58H219.42V418.71H478.43Q509.13 418.71 524.64 403.2Q540.14 387.7 540.14 358Q540.14 328.3 524.64 312.8Q509.13 297.29 478.43 297.29H219.42V121.42H500.75Q530.76 121.42 546.61 105.91Q562.46 90.41 562.46 60.71Q562.46 31.01 546.61 15.51Q530.76 0 500.75 0Z"/>
+  <clipPath id="frame"><rect width="105" height="44" rx="24"/></clipPath>
+  <linearGradient id="accent"><stop stop-color="#ffacd0"/><stop offset=".55" stop-color="#dbb4ff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#d56caa" stop-opacity=".5"/><stop offset="1" stop-color="#251524" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffb2d5" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+  .petal {animation:petal-fall 15s linear infinite}
+  @keyframes petal-fall {0% {transform:translate(-30px,-500px) rotate(0deg);opacity:0} 12%,85% {opacity:1} 100% {transform:translate(80px,500px) rotate(230deg);opacity:0}}
+  .orbit {transform-box:fill-box;transform-origin:center;animation:rotate 38s linear infinite}
+  .reverse {animation-direction:reverse;animation-duration:52s}
+  .pulse {animation:pulse 4s ease-in-out infinite}
+  .float {animation:float 7s ease-in-out infinite}
+  .scan {animation:scan 9s ease-in-out infinite}
+  .blink {animation:pulse 2s ease-in-out infinite}
+  .trace {stroke-dasharray:14 14;animation:trace 18s linear infinite}
+  @keyframes rotate {to {transform:rotate(360deg)}}
+  @keyframes pulse {0%,100% {opacity:.45} 50% {opacity:1}}
+  @keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-8px)}}
+  @keyframes scan {0%,100% {transform:translateX(0);opacity:.15} 50% {transform:translateX(70px);opacity:.65}}
+  @keyframes trace {to {stroke-dashoffset:-280}}
+  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace,.petal {animation:none!important}}
+</style>
+<rect x="1" y="1" width="103" height="42" rx="26" fill="#fff2f7" stroke="#edb8cf"/><g transform="translate(23 22) scale(0.3)" fill="#ffc2d9"><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(0)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(72)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(144)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(216)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(288)"/><circle r="4" fill="#ffdc9f"/><circle r="2" fill="#c87996"/></g><g fill="#843859" role="img" aria-label="LINE"><title>LINE</title><use href="#font-800-76" transform="translate(49.68 28) scale(0.01600 -0.01600)"/><use href="#font-800-73" transform="translate(58.84 28) scale(0.01600 -0.01600)"/><use href="#font-800-78" transform="translate(63.60 28) scale(0.01600 -0.01600)"/><use href="#font-800-69" transform="translate(75.64 28) scale(0.01600 -0.01600)"/></g>
+</svg>
