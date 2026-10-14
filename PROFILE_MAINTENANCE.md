@@ -1,7 +1,7 @@
 # Profile artwork
 
 The README uses local, self-contained SVG artwork. Original profile information,
-all four projects, all 22 stack entries, and the original destination links are
+all four projects, the original stack entries, and the original destination links are
 preserved. The original portrait and banner files are retained.
 
 ## Rebuild
@@ -57,7 +57,8 @@ Brand icons come from [Devicon](https://github.com/devicons/devicon) (MIT) and
 commits and individual source URLs are recorded in `assets/icons/sources.json`.
 License texts are included alongside those sources. Brand marks remain the
 property of their owners. TCP/IP and Nmap use custom network/radar illustrations;
-they are not presented as official logos.
+they are not presented as official logos. MVC uses a custom three-component
+Model–View–Controller diagram. The ASP.NET card uses the .NET ecosystem logo.
 
 
 ## Sakura theme and typography

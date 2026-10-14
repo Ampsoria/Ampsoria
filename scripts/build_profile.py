@@ -27,10 +27,12 @@ GLYPHS = json.loads((ROOT / "assets/fonts/glyphs.json").read_text())
 USED_GLYPHS = {}
 STACK = [
     ("java", "Java", "#f89820"), ("python", "Python", "#ffd343"),
-    ("c", "C", "#77a9ff"), ("php", "PHP", "#aaa5ff"),
+    ("c", "C", "#77a9ff"), ("csharp", "C#", "#a179dc"), ("php", "PHP", "#aaa5ff"),
     ("javascript", "JavaScript", "#f7df1e"),
     ("html5", "HTML5", "#ff7954"), ("css3", "CSS3", "#65baff"),
     ("react", "React", "#61dafb"), ("nodejs", "Node.js", "#8cce7a"),
+    ("aspnet", "ASP.NET", "#8a65d2"), ("blazor", "Blazor", "#9d78dd"),
+    ("sqlserver", "SQL Server", "#cd657b"), ("mvc", "MVC", "#bc70a0"),
     ("mysql", "MySQL", "#77c7ed"), ("firebase", "Firebase", "#ffcb4c"),
     ("git", "Git", "#ff806a"), ("docker", "Docker", "#59baff"),
     ("n8n", "n8n", "#ff8097"), ("linux", "Linux", "#ffde69"),
@@ -142,6 +144,16 @@ def hero(light=False):
 
 
 def icon_markup(slug, color):
+    if slug == "mvc":
+        # A custom three-component diagram, not a product or vendor logo.
+        return ('<g fill="none" stroke="#bc70a0" stroke-width="5" stroke-linejoin="round">'
+                '<path d="M51 38L30 78M77 38l21 40M42 96h44"/>'
+                '<rect x="43" y="6" width="42" height="36" rx="10" fill="#f9d9e8"/>'
+                '<rect x="3" y="79" width="42" height="36" rx="10" fill="#ead5f6"/>'
+                '<rect x="83" y="79" width="42" height="36" rx="10" fill="#f9d9e8"/>'
+                '</g>' + text(64, 32, "M", 22, "#843859", 800, extra='text-anchor="middle"')
+                + text(24, 104, "V", 22, "#843859", 800, extra='text-anchor="middle"')
+                + text(104, 104, "C", 22, "#843859", 800, extra='text-anchor="middle"'))
     if slug == "tcpip":
         return '<g fill="none" stroke="#ffacd0" stroke-width="6"><path d="M64 35v28M25 85V63h78v22"/><rect x="43" y="6" width="42" height="29" rx="6"/><rect x="5" y="85" width="40" height="29" rx="6"/><rect x="83" y="85" width="40" height="29" rx="6"/></g>'
     if slug == "nmap":

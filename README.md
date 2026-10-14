@@ -47,6 +47,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
   <img src="assets/generated/tech-java.svg" width="96" alt="Java" />
   <img src="assets/generated/tech-python.svg" width="96" alt="Python" />
   <img src="assets/generated/tech-c.svg" width="96" alt="C" />
+  <img src="assets/generated/tech-csharp.svg" width="96" alt="C#" />
   <img src="assets/generated/tech-php.svg" width="96" alt="PHP" />
   <img src="assets/generated/tech-javascript.svg" width="96" alt="JavaScript" />
 </p>
@@ -60,6 +61,20 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
   <img src="assets/generated/tech-nodejs.svg" width="96" alt="Node.js" />
   <img src="assets/generated/tech-mysql.svg" width="96" alt="MySQL" />
   <img src="assets/generated/tech-firebase.svg" width="96" alt="Firebase" />
+</p>
+
+**.NET ecosystem**
+
+<p>
+  <img src="assets/generated/tech-aspnet.svg" width="96" alt="ASP.NET" />
+  <img src="assets/generated/tech-blazor.svg" width="96" alt="Blazor" />
+  <img src="assets/generated/tech-sqlserver.svg" width="96" alt="Microsoft SQL Server" />
+</p>
+
+**Architecture & patterns**
+
+<p>
+  <img src="assets/generated/tech-mvc.svg" width="96" alt="MVC — Model–View–Controller" />
 </p>
 
 **Tools & platforms**
