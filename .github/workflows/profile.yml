@@ -1,0 +1,51 @@
+name: Refresh profile artwork
+
+on:
+  schedule:
+    # 09:23 Bangkok time (UTC+7), away from the hourly scheduling rush.
+    - cron: '23 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'assets/icons/**'
+      - '.github/workflows/profile.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-artwork
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'Ampsoria/Ampsoria'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Verify data handling
+        run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
+
+      - name: Generate artwork with current public data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/build_profile.py --refresh
+
+      - name: Commit updated artwork
+        run: |
+          git add assets/generated/
+          if git diff --cached --quiet; then
+            echo "Profile artwork is already up to date."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "chore: refresh profile artwork"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

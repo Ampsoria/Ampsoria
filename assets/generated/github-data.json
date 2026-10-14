@@ -1,0 +1,40 @@
+{
+  "account": "Ampsoria",
+  "updated_at": "2026-10-14 05:16 UTC",
+  "public_repos": 25,
+  "followers": 20,
+  "stars": 1,
+  "original_repos": 25,
+  "languages": {
+    "JavaScript": 6,
+    "Swift": 1,
+    "HTML": 3,
+    "Python": 3,
+    "C#": 2,
+    "CSS": 1,
+    "TypeScript": 4,
+    "PHP": 2
+  },
+  "recent": [
+    {
+      "name": "AwareFlow-with-Ai-Agent",
+      "language": "Python",
+      "pushed_at": "2026-10-14"
+    },
+    {
+      "name": "AmpNorch-MacOS-Application",
+      "language": "Swift",
+      "pushed_at": "2026-09-30"
+    },
+    {
+      "name": "Solar-Planner",
+      "language": "TypeScript",
+      "pushed_at": "2026-09-08"
+    },
+    {
+      "name": "BaanChao",
+      "language": "C#",
+      "pushed_at": "2026-09-02"
+    }
+  ]
+}

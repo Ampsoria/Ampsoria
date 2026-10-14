@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="389" viewBox="0 0 600 389" role="img" aria-labelledby="title desc">
+<title id="title">Public GitHub statistics</title><desc id="desc">Snapshot: 2026-10-14 05:16 UTC</desc>
+<defs>
+  <linearGradient id="accent"><stop stop-color="#8fffd2"/><stop offset=".55" stop-color="#74dcff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#145665" stop-opacity=".5"/><stop offset="1" stop-color="#0b111b" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91cce2" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+  .orbit {transform-box:fill-box;transform-origin:center;animation:rotate 38s linear infinite}
+  .reverse {animation-direction:reverse;animation-duration:52s}
+  .pulse {animation:pulse 4s ease-in-out infinite}
+  .float {animation:float 7s ease-in-out infinite}
+  .scan {animation:scan 9s ease-in-out infinite}
+  .blink {animation:pulse 2s ease-in-out infinite}
+  .trace {stroke-dasharray:14 14;animation:trace 18s linear infinite}
+  @keyframes rotate {to {transform:rotate(360deg)}}
+  @keyframes pulse {0%,100% {opacity:.45} 50% {opacity:1}}
+  @keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-8px)}}
+  @keyframes scan {0%,100% {transform:translateX(0);opacity:.15} 50% {transform:translateX(70px);opacity:.65}}
+  @keyframes trace {to {stroke-dashoffset:-280}}
+  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace {animation:none!important}}
+</style>
+<rect x="1" y="1" width="598" height="387" rx="20" fill="#0b111b" stroke="#25374a"/><text x="28" y="38" fill="#8fffd2" font-size="17" font-weight="600" font-family="'SFMono-Regular', Consolas, monospace" >GITHUB / AT A GLANCE</text><text x="28" y="130" fill="#edf7ff" font-size="60" font-weight="700" font-family="'SFMono-Regular', Consolas, monospace" >25</text><text x="28" y="162" fill="#9cb3c5" font-size="18" font-weight="400" font-family="'Segoe UI', Arial, sans-serif" >Public repositories</text><text x="326" y="130" fill="#edf7ff" font-size="60" font-weight="700" font-family="'SFMono-Regular', Consolas, monospace" >25</text><text x="326" y="162" fill="#9cb3c5" font-size="18" font-weight="400" font-family="'Segoe UI', Arial, sans-serif" >Non-fork repositories</text><text x="28" y="263" fill="#edf7ff" font-size="60" font-weight="700" font-family="'SFMono-Regular', Consolas, monospace" >1</text><text x="28" y="295" fill="#9cb3c5" font-size="18" font-weight="400" font-family="'Segoe UI', Arial, sans-serif" >Stars · non-fork repos</text><text x="326" y="263" fill="#edf7ff" font-size="60" font-weight="700" font-family="'SFMono-Regular', Consolas, monospace" >20</text><text x="326" y="295" fill="#9cb3c5" font-size="18" font-weight="400" font-family="'Segoe UI', Arial, sans-serif" >Followers</text><text x="28" y="356" fill="#91a7bb" font-size="17" font-weight="400" font-family="'SFMono-Regular', Consolas, monospace" >Snapshot: 2026-10-14 05:16 UTC</text>
+</svg>

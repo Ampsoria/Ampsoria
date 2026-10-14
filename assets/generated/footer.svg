@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+<title id="title">Open to a 4-month internship — let&#x27;s build something meaningful</title><desc id="desc">Open to a 4-month internship — let&#x27;s build something meaningful</desc>
+<defs>
+  <linearGradient id="accent"><stop stop-color="#8fffd2"/><stop offset=".55" stop-color="#74dcff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#145665" stop-opacity=".5"/><stop offset="1" stop-color="#0b111b" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91cce2" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+  .orbit {transform-box:fill-box;transform-origin:center;animation:rotate 38s linear infinite}
+  .reverse {animation-direction:reverse;animation-duration:52s}
+  .pulse {animation:pulse 4s ease-in-out infinite}
+  .float {animation:float 7s ease-in-out infinite}
+  .scan {animation:scan 9s ease-in-out infinite}
+  .blink {animation:pulse 2s ease-in-out infinite}
+  .trace {stroke-dasharray:14 14;animation:trace 18s linear infinite}
+  @keyframes rotate {to {transform:rotate(360deg)}}
+  @keyframes pulse {0%,100% {opacity:.45} 50% {opacity:1}}
+  @keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-8px)}}
+  @keyframes scan {0%,100% {transform:translateX(0);opacity:.15} 50% {transform:translateX(70px);opacity:.65}}
+  @keyframes trace {to {stroke-dashoffset:-280}}
+  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace {animation:none!important}}
+</style>
+<rect x="1" y="1" width="1198" height="148" rx="20" fill="#0b111b" stroke="#25374a"/><rect x="1" y="1" width="1198" height="148" rx="20" fill="url(#grid)"/><circle cx="55" cy="46" r="5" fill="#8fffd2" class="pulse"/><text x="73" y="50" fill="#8fffd2" font-size="12" font-weight="500" font-family="'SFMono-Regular', Consolas, monospace" letter-spacing="2">LET&#x27;S BUILD SOMETHING MEANINGFUL.</text><text x="48" y="104" fill="#e9f1f7" font-size="34" font-weight="650" font-family="'Segoe UI', Arial, sans-serif" >Open to a 4-month internship.</text><text x="1149" y="100" fill="#92a8bb" font-size="12" font-weight="400" font-family="'SFMono-Regular', Consolas, monospace" text-anchor="end">SOFTWARE  +  SECURITY  +  CURIOSITY</text>
+</svg>

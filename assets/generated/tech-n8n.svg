@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="148" viewBox="0 0 128 148" role="img" aria-labelledby="title desc">
+<title id="title">n8n</title><desc id="desc">n8n — Amp&#x27;s languages and tools</desc>
+<defs>
+  <linearGradient id="accent"><stop stop-color="#8fffd2"/><stop offset=".55" stop-color="#74dcff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#145665" stop-opacity=".5"/><stop offset="1" stop-color="#0b111b" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91cce2" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+  .orbit {transform-box:fill-box;transform-origin:center;animation:rotate 38s linear infinite}
+  .reverse {animation-direction:reverse;animation-duration:52s}
+  .pulse {animation:pulse 4s ease-in-out infinite}
+  .float {animation:float 7s ease-in-out infinite}
+  .scan {animation:scan 9s ease-in-out infinite}
+  .blink {animation:pulse 2s ease-in-out infinite}
+  .trace {stroke-dasharray:14 14;animation:trace 18s linear infinite}
+  @keyframes rotate {to {transform:rotate(360deg)}}
+  @keyframes pulse {0%,100% {opacity:.45} 50% {opacity:1}}
+  @keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-8px)}}
+  @keyframes scan {0%,100% {transform:translateX(0);opacity:.15} 50% {transform:translateX(70px);opacity:.65}}
+  @keyframes trace {to {stroke-dashoffset:-280}}
+  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace {animation:none!important}}
+</style>
+<rect x="1" y="1" width="126" height="146" rx="18" fill="#101a27" stroke="#2b3b4e"/><rect x="17" y="17" width="94" height="83" rx="15" fill="#ff8097" opacity=".055"/><g transform="translate(37 32) scale(.421875)"><svg width="128" height="128" viewBox="0 0 24 24" fill="#ff8097"><path d="M21.4737 5.6842c-1.1772 0-2.1663.8051-2.4468 1.8947h-2.8955c-1.235 0-2.289.893-2.492 2.111l-.1038.623a1.263 1.263 0 0 1-1.246 1.0555H11.289c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947s-2.1663.8051-2.4467 1.8947H4.973c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947C1.1311 9.4737 0 10.6047 0 12s1.131 2.5263 2.5263 2.5263c1.1772 0 2.1663-.8051 2.4468-1.8947h1.4223c.2804 1.0896 1.2696 1.8947 2.4467 1.8947 1.1772 0 2.1663-.8051 2.4468-1.8947h1.0008a1.263 1.263 0 0 1 1.2459 1.0555l.1038.623c.203 1.218 1.257 2.111 2.492 2.111h.3692c.2804 1.0895 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263c-1.1772 0-2.1664.805-2.4468 1.8947h-.3692a1.263 1.263 0 0 1-1.246-1.0555l-.1037-.623A2.52 2.52 0 0 0 13.9607 12a2.52 2.52 0 0 0 .821-1.4794l.1038-.623a1.263 1.263 0 0 1 1.2459-1.0555h2.8955c.2805 1.0896 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263m0 1.2632a1.263 1.263 0 0 1 1.2631 1.2631 1.263 1.263 0 0 1-1.2631 1.2632 1.263 1.263 0 0 1-1.2632-1.2632 1.263 1.263 0 0 1 1.2632-1.2631M2.5263 10.7368A1.263 1.263 0 0 1 3.7895 12a1.263 1.263 0 0 1-1.2632 1.2632A1.263 1.263 0 0 1 1.2632 12a1.263 1.263 0 0 1 1.2631-1.2632m6.3158 0A1.263 1.263 0 0 1 10.1053 12a1.263 1.263 0 0 1-1.2632 1.2632A1.263 1.263 0 0 1 7.579 12a1.263 1.263 0 0 1 1.2632-1.2632m10.1053 3.7895a1.263 1.263 0 0 1 1.2631 1.2632 1.263 1.263 0 0 1-1.2631 1.2631 1.263 1.263 0 0 1-1.2632-1.2631 1.263 1.263 0 0 1 1.2632-1.2632" /></svg></g><text x="64" y="121" fill="#e6f0fa" font-size="12" font-weight="600" font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">n8n</text><path d="M45 136h38" stroke="#ff8097" stroke-width="2" stroke-linecap="round" class="pulse" style="animation-delay:-1s"/>
+</svg>

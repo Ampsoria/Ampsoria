@@ -1,101 +1,205 @@
+<a id="top"></a>
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <img src="ampreadme.png" alt="Amp's Profile Picture" width="200" />
-      </td>
-      <td>
-        <h1>Hi there, I'm Gorrawit Puttabarramee! (Amp) 👋</h1>
-        <h3>B.Sc. Computer Science Student</h3>
-        <p><b>Aspiring Software Developer & Cybersecurity Enthusiast</b></p>
-        <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-        <br><br>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/generated/hero-light.svg" />
+    <img src="assets/generated/hero-dark.svg" alt="Hi, I'm Amp. Aspiring Software Developer & Cybersecurity Enthusiast. Code. Connect. Keep learning." width="100%" />
+  </picture>
+
+  <h1>Gorrawit Puttabarramee <sub> / Amp</sub></h1>
+  <p><b>B.Sc. Computer Science Student</b><br />Aspiring Software Developer &amp; Cybersecurity Enthusiast</p>
+
+  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIP-4_MONTHS-8fffd2?style=for-the-badge&labelColor=142332" alt="Open to a 4-month internship — contact me by email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=PROFILE+VIEWS&color=237e83&style=for-the-badge" alt="Profile views" />
+
+  <p>
+    <a href="#about">About</a> &nbsp; / &nbsp;
+    <a href="#stack">Tech Stack</a> &nbsp; / &nbsp;
+    <a href="#projects">Projects</a> &nbsp; / &nbsp;
+    <a href="#activity">GitHub Pulse</a> &nbsp; / &nbsp;
+    <a href="#credentials">Resume &amp; Certificates</a> &nbsp; / &nbsp;
+    <a href="#connect">Connect</a>
+  </p>
 </div>
 
+<img src="assets/generated/divider.svg" width="100%" alt="" />
+
+<a id="about"></a>
+
+## 01 &nbsp; / &nbsp; A little about me
+
+<img src="ampreadme.png" align="right" width="170" alt="Amp — Gorrawit Puttabarramee" />
+
+I'm a 3rd-year Computer Science student at **Huachiew Chalermprakiet University**. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. **I am currently looking for a 4-month internship** to apply my foundational skills to real-world challenges, assist with daily operations, and learn from experienced professionals.
+
+When I'm taking a break from the screen, I'm usually hitting the bars for some **Calisthenics** or just relaxing with some **games**.
+
+`Coding` &nbsp; `System Design` &nbsp; `Network Security` &nbsp; `Calisthenics` &nbsp; `Gaming`
+
+<br clear="right" />
+
+<a id="stack"></a>
+
+## 02 &nbsp; / &nbsp; The tools behind the ideas
+
+**Programming languages**
+
+<p>
+  <img src="assets/generated/tech-java.svg" width="96" alt="Java" />
+  <img src="assets/generated/tech-python.svg" width="96" alt="Python" />
+  <img src="assets/generated/tech-c.svg" width="96" alt="C" />
+  <img src="assets/generated/tech-php.svg" width="96" alt="PHP" />
+  <img src="assets/generated/tech-javascript.svg" width="96" alt="JavaScript" />
+</p>
+
+**Web, frameworks & databases**
+
+<p>
+  <img src="assets/generated/tech-html5.svg" width="96" alt="HTML5" />
+  <img src="assets/generated/tech-css3.svg" width="96" alt="CSS3" />
+  <img src="assets/generated/tech-react.svg" width="96" alt="React" />
+  <img src="assets/generated/tech-nodejs.svg" width="96" alt="Node.js" />
+  <img src="assets/generated/tech-mysql.svg" width="96" alt="MySQL" />
+  <img src="assets/generated/tech-firebase.svg" width="96" alt="Firebase" />
+</p>
+
+**Tools & platforms**
+
+<p>
+  <img src="assets/generated/tech-git.svg" width="96" alt="Git" />
+  <img src="assets/generated/tech-docker.svg" width="96" alt="Docker" />
+  <img src="assets/generated/tech-n8n.svg" width="96" alt="n8n" />
+  <img src="assets/generated/tech-linux.svg" width="96" alt="Linux" />
+  <img src="assets/generated/tech-windows.svg" width="96" alt="Windows" />
+</p>
+
+**Hardware & computer vision**
+
+<p>
+  <img src="assets/generated/tech-raspberrypi.svg" width="96" alt="Raspberry Pi" />
+  <img src="assets/generated/tech-esp32.svg" width="96" alt="ESP32" />
+  <img src="assets/generated/tech-yolo.svg" width="96" alt="YOLO" />
+  <img src="assets/generated/tech-roboflow.svg" width="96" alt="Roboflow" />
+</p>
+
+**Networking & security**
+
+<p>
+  <img src="assets/generated/tech-tcpip.svg" width="96" alt="TCP/IP networking" />
+  <img src="assets/generated/tech-nmap.svg" width="96" alt="Nmap security" />
+</p>
+
+<img src="assets/generated/divider.svg" width="100%" alt="" />
+
+<a id="projects"></a>
+
+## 03 &nbsp; / &nbsp; Ideas, turned into projects
+
+### 🛡️ Anti-Drone System
+
+**TESA TOP GUN RALLY 2025** &nbsp; · &nbsp; `YOLOv8` `MATLAB` `React` `GPS Telemetry`
+
+- Developed a real-time detection system using **YOLOv8** to calculate precise GPS coordinates for threat localization.
+- Engineered **MATLAB** autonomous flight algorithms to neutralize targets.
+- Built a **React** dashboard displaying live GPS telemetry.
+
+<a href="https://github.com/Ampsoria/Anti-Drone"><img src="https://img.shields.io/badge/Source_Code-142332?style=for-the-badge&logo=github&logoColor=8fffd2" alt="Anti-Drone — view repository" /></a>
+<a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX"><img src="https://img.shields.io/badge/Watch_Demo-142332?style=for-the-badge&logo=youtube&logoColor=ff8596" alt="Anti-Drone — watch demo on YouTube" /></a>
+
 ---
 
-### 👨‍💻 About Me
-I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. **I am currently looking for a 4-month internship** to apply my foundational skills to real-world challenges, assist with daily operations, and learn from experienced professionals. 
+### 🇨🇳 Shanghai Solo Trip Guide
 
-When I'm taking a break from the screen, I'm usually hitting the bars for some Calisthenics or just relaxing with some games. 
+`HTML5` `CSS3` `Vanilla JavaScript` `Leaflet.js`
 
----
+- A comprehensive tourism guide website for Thai solo travelers visiting Shanghai.
+- Built with **HTML5**, **CSS3**, and **Vanilla JavaScript** featuring 30+ attractions with real photos.
+- Includes interactive **Leaflet.js** map, budget/style filters, zone-based recommendations, and CNY-THB converter.
 
-### 🛠️ Languages & Tools
-
-**Programming Languages, Frameworks & Databases:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**Tools & Platforms:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=Roboflow&logoColor=white)
-
-**Networking & Security:** ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-Security-red?style=for-the-badge)
+<a href="https://github.com/Ampsoria/Shanghai_Solotrip_Guideweb"><img src="https://img.shields.io/badge/Source_Code-142332?style=for-the-badge&logo=github&logoColor=8fffd2" alt="Shanghai Solo Trip Guide — view repository" /></a>
+<a href="https://ampsoria.github.io/Shanghai_Solotrip_Guideweb/"><img src="https://img.shields.io/badge/Explore_Live_Demo-142332?style=for-the-badge&logo=githubpages&logoColor=74dcff" alt="Shanghai Solo Trip Guide — open live demo" /></a>
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚗 Parking Management System
 
-* 🛡️ **Anti-Drone System (TESA TOP GUN RALLY 2025):** <a href="https://github.com/Ampsoria/Anti-Drone" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> <a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
-  * Developed a real-time detection system using **YOLOv8** to calculate precise GPS coordinates for threat localization.
-  * Engineered **MATLAB** autonomous flight algorithms to neutralize targets.
-  * Built a **React** dashboard displaying live GPS telemetry.
+`Java Swing` `PHP` `BCrypt` `Role-based Dashboards`
 
-* 🇨🇳 **Shanghai Solo Trip Guide:** <a href="https://github.com/Ampsoria/Shanghai_Solotrip_Guideweb" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> <a href="https://ampsoria.github.io/Shanghai_Solotrip_Guideweb/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" /></a>
-  * A comprehensive tourism guide website for Thai solo travelers visiting Shanghai.
-  * Built with **HTML5**, **CSS3**, and **Vanilla JavaScript** featuring 30+ attractions with real photos.
-  * Includes interactive **Leaflet.js** map, budget/style filters, zone-based recommendations, and CNY-THB converter.
+- Full Stack Developer for a comprehensive parking solution.
+- Developed a hybrid platform integrating **Java Swing** and **PHP** with **BCrypt** security.
+- Designed role-based dashboards for real-time monitoring.
 
-* 🚗 **Parking Management System:** <a href="https://github.com/Ampsoria/HCU_ParkingSystem" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
-  * Full Stack Developer for a comprehensive parking solution.
-  * Developed a hybrid platform integrating **Java Swing** and **PHP** with **BCrypt** security.
-  * Designed role-based dashboards for real-time monitoring.
-
-* 🖥️ **AR Computer Components Explorer:** <a href="https://youtu.be/Auz_2eqdpGE" target="_blank"><img src="https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" /></a>
-  * Developed an educational Augmented Reality (AR) application using **Unity** to visualize computer hardware.
-  * Created interactive 3D models for users to study essential internal components such as CPUs, GPUs, RAM, and Mainboards.
+<a href="https://github.com/Ampsoria/HCU_ParkingSystem"><img src="https://img.shields.io/badge/Source_Code-142332?style=for-the-badge&logo=github&logoColor=8fffd2" alt="Parking Management System — view repository" /></a>
 
 ---
+
+### 🖥️ AR Computer Components Explorer
+
+`Unity` `Augmented Reality` `Interactive 3D`
+
+- Developed an educational Augmented Reality (AR) application using **Unity** to visualize computer hardware.
+- Created interactive 3D models for users to study essential internal components such as CPUs, GPUs, RAM, and Mainboards.
+
+<a href="https://youtu.be/Auz_2eqdpGE"><img src="https://img.shields.io/badge/Watch_Demo-142332?style=for-the-badge&logo=youtube&logoColor=ff8596" alt="AR Computer Components Explorer — watch demo on YouTube" /></a>
+
+<img src="assets/generated/divider.svg" width="100%" alt="" />
+
+<a id="activity"></a>
+
+## 04 &nbsp; / &nbsp; GitHub pulse
+
+<a href="https://github.com/Ampsoria?tab=repositories">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/generated/github-stats-mobile.svg" />
+    <img src="assets/generated/github-stats.svg" width="100%" alt="Amp's public GitHub statistics — repository counts, stars on non-fork repositories, and followers. Updated timestamp is displayed on the card." />
+  </picture>
+</a>
+
+<details>
+  <summary><b>Explore my language landscape &amp; recent projects</b></summary>
+  <br />
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/generated/github-activity-mobile.svg" />
+    <img src="assets/generated/github-activity.svg" width="100%" alt="Primary languages across public non-fork repositories and four recently pushed projects. Language counts describe repositories, not proficiency." />
+  </picture>
+  <p>Public GitHub data. Language counts use each repository's primary language; forks are excluded. Recently pushed projects exclude this profile repository.</p>
+</details>
+
+<a id="credentials"></a>
+
+## 05 &nbsp; / &nbsp; Beyond the code
 
 ### 📄 Resume
 
-Want to know more about my academic background and experiences? 
+Want to know more about my academic background and experiences?
 
-**📂 Download my full resume:** <a href="https://drive.google.com/file/d/1_k4EzkfgabGb-_Ckyv8APgReRibXGuYx/view?usp=drivesdk" target="_blank"><img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume" /></a>
+**📂 Download my full resume:**
 
----
+<a href="https://drive.google.com/file/d/1_k4EzkfgabGb-_Ckyv8APgReRibXGuYx/view?usp=drivesdk"><img src="https://img.shields.io/badge/View_My_Resume-8fffd2?style=for-the-badge&logo=googledocs&logoColor=142332" alt="View my full resume on Google Drive" /></a>
 
 ### 🏆 Certificates & Activities
 
 Explore my verified achievements, training, and extra-curricular activities:
 
-**📜 View my Gallery:** <a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/" target="_blank"><img src="https://img.shields.io/badge/Click_Here!!!-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Gallery" /></a>
+**📜 View my Gallery:**
 
----
+<a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/"><img src="https://img.shields.io/badge/Explore_the_Gallery-74dcff?style=for-the-badge&logo=githubpages&logoColor=142332" alt="View my certificates and activities gallery" /></a>
 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Ampsoria"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://line.me/ti/p/_Fi2eW968Q"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line ID: amp2648" /></a>
-  <a href="tel:+66654986129"><img src="https://img.shields.io/badge/Phone-(%2B66)_65--498--6129-0078D4?style=for-the-badge" alt="Phone: (+66) 65-498-6129" /></a>
-</p>
+<img src="assets/generated/divider.svg" width="100%" alt="" />
+
+<a id="connect"></a>
+
+## 06 &nbsp; / &nbsp; Let's connect!
+
+<a href="mailto:ampsoriainyourarea@gmail.com"><img src="assets/generated/footer.svg" width="100%" alt="Open to a 4-month internship — let's build something meaningful. Email Amp." /></a>
+
+<div align="center">
+  <br />
+  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/Email-142332?style=for-the-badge&logo=gmail&logoColor=ff8596" alt="Email: ampsoriainyourarea@gmail.com" /></a>
+  <a href="https://github.com/Ampsoria"><img src="https://img.shields.io/badge/GitHub-142332?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub: Ampsoria" /></a>
+  <a href="https://line.me/ti/p/_Fi2eW968Q"><img src="https://img.shields.io/badge/LINE-142332?style=for-the-badge&logo=line&logoColor=8fffd2" alt="LINE ID: amp2648" /></a>
+  <a href="tel:+66654986129"><img src="https://img.shields.io/badge/(%2B66)_65--498--6129-142332?style=for-the-badge" alt="Phone: (+66) 65-498-6129" /></a>
+  <p>ampsoriainyourarea@gmail.com<br />LINE: amp2648 &nbsp; · &nbsp; (+66) 65-498-6129</p>
+  <br />
+  <a href="#top">↑ Back to top</a>
+</div>

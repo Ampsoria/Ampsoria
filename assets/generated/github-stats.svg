@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">GitHub statistics for Ampsoria</title><desc id="desc">Snapshot 2026-10-14 05:16 UTC: 25 public repositories, 25 non-fork repositories, 1 stars on non-fork repositories, 20 followers.</desc>
+<defs>
+  <linearGradient id="accent"><stop stop-color="#8fffd2"/><stop offset=".55" stop-color="#74dcff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#145665" stop-opacity=".5"/><stop offset="1" stop-color="#0b111b" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91cce2" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+  .orbit {transform-box:fill-box;transform-origin:center;animation:rotate 38s linear infinite}
+  .reverse {animation-direction:reverse;animation-duration:52s}
+  .pulse {animation:pulse 4s ease-in-out infinite}
+  .float {animation:float 7s ease-in-out infinite}
+  .scan {animation:scan 9s ease-in-out infinite}
+  .blink {animation:pulse 2s ease-in-out infinite}
+  .trace {stroke-dasharray:14 14;animation:trace 18s linear infinite}
+  @keyframes rotate {to {transform:rotate(360deg)}}
+  @keyframes pulse {0%,100% {opacity:.45} 50% {opacity:1}}
+  @keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-8px)}}
+  @keyframes scan {0%,100% {transform:translateX(0);opacity:.15} 50% {transform:translateX(70px);opacity:.65}}
+  @keyframes trace {to {stroke-dashoffset:-280}}
+  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace {animation:none!important}}
+</style>
+<rect x="1" y="1" width="1198" height="229" rx="20" fill="#0b111b" stroke="#25374a"/><text x="34" y="40" fill="#8fffd2" font-size="13" font-weight="600" font-family="'SFMono-Regular', Consolas, monospace" letter-spacing="2">GITHUB / AT A GLANCE</text><text x="1166" y="40" fill="#91a7bb" font-size="12" font-weight="400" font-family="'SFMono-Regular', Consolas, monospace" text-anchor="end">2026-10-14 05:16 UTC</text><text x="34" y="127" fill="#edf7ff" font-size="62" font-weight="700" font-family="'SFMono-Regular', Consolas, monospace" >25</text><text x="34" y="164" fill="#9cb3c5" font-size="11" font-weight="400" font-family="'SFMono-Regular', Consolas, monospace" letter-spacing="1">PUBLIC REPOSITORIES</text><path d="M298 77v97" stroke="#25374a"/><text x="333" y="127" fill="#edf7ff" font-size="62" font-weight="700" font-family="'SFMono-Regular', Consolas, monospace" >25</text><text x="333" y="164" fill="#9cb3c5" font-size="11" font-weight="400" font-family="'SFMono-Regular', Consolas, monospace" letter-spacing="1">NON-FORK REPOSITORIES</text><path d="M597 77v97" stroke="#25374a"/><text x="632" y="127" fill="#edf7ff" font-size="62" font-weight="700" font-family="'SFMono-Regular', Consolas, monospace" >1</text><text x="632" y="164" fill="#9cb3c5" font-size="11" font-weight="400" font-family="'SFMono-Regular', Consolas, monospace" letter-spacing="1">STARS · NON-FORK REPOS</text><path d="M896 77v97" stroke="#25374a"/><text x="931" y="127" fill="#edf7ff" font-size="62" font-weight="700" font-family="'SFMono-Regular', Consolas, monospace" >20</text><text x="931" y="164" fill="#9cb3c5" font-size="11" font-weight="400" font-family="'SFMono-Regular', Consolas, monospace" letter-spacing="1">FOLLOWERS</text><text x="34" y="207" fill="#91a7bb" font-size="10" font-weight="400" font-family="'SFMono-Regular', Consolas, monospace" letter-spacing="1">PUBLIC GITHUB DATA  /  REFRESHED DAILY VIA GITHUB ACTIONS</text>
+</svg>
