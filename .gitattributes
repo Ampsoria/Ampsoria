@@ -1,0 +1,6 @@
+# Collapse generated artwork in pull requests while keeping snapshots reviewable.
+assets/generated/*.svg linguist-generated=true
+
+# Keep vendored icon and font data separate from the profile's source code.
+assets/icons/** linguist-vendored=true
+assets/fonts/** linguist-vendored=true
