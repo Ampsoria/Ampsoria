@@ -1,10 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <picture>
-
-    <img src="assets/generated/hero-light.svg" alt="Hi, I'm Amp. Aspiring Software Developer & Cybersecurity Enthusiast. Code. Connect. Keep blooming. An original anime programmer surrounded by falling sakura petals." width="100%" />
-  </picture>
+  <img src="assets/generated/hero-light.svg" alt="Hi, I'm Amp. Aspiring Software Developer & Cybersecurity Enthusiast. Code. Connect. Keep blooming. An original anime programmer surrounded by falling sakura petals." width="100%" />
 
   <h1>🌸 Gorrawit Puttabarramee <sub> / Amp</sub></h1>
   <p><b>4th-year B.Sc. Computer Science Student</b><br />Aspiring Software Developer &amp; Cybersecurity Enthusiast</p>
@@ -207,10 +204,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 
 <p align="center">
   <a href="https://github.com/Ampsoria?tab=repositories">
-    <picture>
-
-      <img src="assets/generated/project-garden-light.svg" width="640" alt="My little project garden: one swaying blossom per public non-fork repository, up to 49. The card shows the total and snapshot time." />
-    </picture>
+    <img src="assets/generated/project-garden-light.svg" width="640" alt="My little project garden: one swaying blossom per public non-fork repository, up to 49. The card shows the total and snapshot time." />
   </a>
 </p>
 
