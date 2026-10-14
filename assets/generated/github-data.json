@@ -1,6 +1,6 @@
 {
   "account": "Ampsoria",
-  "updated_at": "2026-10-14 05:16 UTC",
+  "updated_at": "2026-10-14 05:23 UTC",
   "public_repos": 25,
   "followers": 20,
   "stars": 1,
@@ -8,8 +8,8 @@
   "languages": {
     "JavaScript": 6,
     "Swift": 1,
+    "Python": 4,
     "HTML": 3,
-    "Python": 3,
     "C#": 2,
     "CSS": 1,
     "TypeScript": 4,
