@@ -22,8 +22,10 @@ scripts, external fonts, or externally loaded images inside the SVGs.
 
 The header uses `<picture>` for light/dark variants. Tech cards wrap individually
 on narrow screens. Navigation, contact links, and the expandable activity panel
-use native GitHub README markup. Shields.io buttons and the existing Komarev view
-counter remain external services; local artwork does not depend on them.
+use native GitHub README markup. Shields.io buttons remain external services; local artwork does not depend on
+them. The header uses a local decorative welcome badge. The external Komarev
+visitor counter was removed after repeated loading failures; the replacement
+does not display or claim a visitor count.
 
 ## Automatic refresh
 

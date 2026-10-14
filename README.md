@@ -9,7 +9,7 @@
   <h1>🌸 Gorrawit Puttabarramee <sub> / Amp</sub></h1>
   <p><b>4th-year B.Sc. Computer Science Student</b><br />Aspiring Software Developer &amp; Cybersecurity Enthusiast</p>
 
-  <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=PROFILE+VIEWS&color=d889ae&style=for-the-badge" alt="Profile views" />
+  <img src="assets/generated/welcome-badge.svg" width="340" alt="Learning · building · growing" />
 
   <p>
     <a href="#about">About</a> &nbsp; / &nbsp;

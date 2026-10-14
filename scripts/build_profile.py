@@ -179,6 +179,10 @@ def stack_tiles():
 
 
 def accents():
+    badge = '<rect x="1" y="1" width="338" height="42" rx="21" fill="#fff2f7" stroke="#edb8cf"/>'
+    badge += flower(25, 22, .32)
+    badge += text(183, 28, "Learning · building · growing", 16, "#843859", 800, extra='text-anchor="middle"')
+    svg("welcome-badge.svg", 340, 44, badge, "Learning · building · growing", "Decorative welcome badge; not a visitor counter.")
     b = '<path d="M0 24H545M655 24H1200" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2" class="trace"/>'
     b += flower(600, 24, .8) + flower(560, 24, .35) + flower(640, 24, .35)
     svg("divider.svg", 1200, 48, b, "Sakura blossom divider")
