@@ -20,7 +20,9 @@ accessible descriptions. README images also provide alt text. Animation uses SVG
 CSS; `prefers-reduced-motion` disables it without hiding any information. The sakura hero embeds the original mascot PNG as a data URI. There are no
 scripts, external fonts, or externally loaded images inside the SVGs.
 
-The header uses `<picture>` for light/dark variants. Tech cards wrap individually
+The README always displays the light hero and project garden, independent of the
+visitor's GitHub theme. Dark variants remain generated for optional reuse. GitHub
+page background colors are controlled by the visitor, not README markup. Tech cards wrap individually
 on narrow screens. Navigation, contact links, and the expandable activity panel
 use native GitHub README markup. All README buttons and artwork are now local assets, including the former
 Shields.io buttons. The README does not hotlink any external images. The header uses a local decorative welcome badge. The external Komarev
