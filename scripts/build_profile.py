@@ -335,6 +335,28 @@ def dashboard():
     svg("github-activity-mobile.svg", 600, 699, b, "Language landscape and recently pushed projects", "Primary language counts across public non-fork repositories, not proficiency.")
 
 
+def gallery_banner():
+    """A clickable gallery cover; all navigation stays in README markup."""
+    b = '<rect x="1" y="1" width="718" height="298" rx="24" fill="#251524" stroke="#e796bd" stroke-width="2"/>'
+    b += '<rect width="720" height="300" rx="24" fill="url(#grid)"/>'
+    b += '<ellipse cx="635" cy="80" rx="170" ry="150" fill="url(#aura)"/>'
+    b += text(32, 37, "THE PORTFOLIO EDIT", 14, PINK, 800, extra='letter-spacing="2"')
+    b += text(32, 88, "My work. My journey.", 40, "#fff0f6", 800)
+    b += text(32, 119, "A gallery of experiences, milestones & moments.", 19, "#e2b9cd")
+    for x, label, subtitle in [(32, "Competitions", "Ideas put to the test"),
+                               (255, "Certificates", "Learning in action"),
+                               (478, "Activities", "Beyond the classroom")]:
+        b += f'<rect x="{x}" y="145" width="210" height="70" rx="14" fill="#3b2336" stroke="#80506a"/>'
+        b += text(x+15, 174, label, 20, "#ffcee3", 800)
+        b += text(x+15, 198, subtitle, 14, "#e2b9cd")
+    b += '<rect x="32" y="235" width="258" height="44" rx="22" fill="url(#accent)"/>'
+    b += text(161, 264, "Explore my gallery  >", 19, "#44213a", 800, extra='text-anchor="middle"')
+    b += text(320, 263, "Photos / stories / achievements", 16, "#e2b9cd")
+    b += '<g class="pulse">' + flower(666, 51, .9) + flower(690, 114, .45) + '</g>'
+    svg("gallery-showcase.svg", 720, 300, b, "Explore Amp's portfolio gallery",
+        "Competitions, certificates and activities. Open the gallery for photos and stories.")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--refresh", action="store_true", help="Fetch current public GitHub statistics")
@@ -346,6 +368,7 @@ def main():
     hero(light=True)
     stack_tiles()
     accents()
+    gallery_banner()
     portrait_frame()
     character_ribbons()
     dashboard()

@@ -128,3 +128,14 @@ The supplementary panels are collapsible to keep the main profile readable.
 SVG frame with a dotted inner border and sakura corner flowers. The README's
 About section uses `assets/generated/portrait-framed.svg`. Updating the original
 photo triggers the artwork workflow; the original file is never overwritten.
+
+
+## Portfolio gallery spotlight
+
+The README links to the portfolio gallery directly below the introduction and
+from the navigation. Section 05 features a clickable `gallery-showcase.svg`
+cover, followed by searchable text describing the gallery's three categories.
+`gallery_banner()` in `scripts/build_profile.py` rebuilds the cover using local
+font outlines and sakura accents, with reduced-motion support. The gallery URL
+and resume link remain unchanged; `#gallery` and `#credentials` are separate
+anchors. Avoid hard-coded item counts so the README stays useful as the gallery grows.

@@ -11,12 +11,16 @@
 
   <img src="assets/generated/welcome-badge.svg" width="340" alt="Learning · building · growing" />
 
+  <p><b>Step inside my portfolio — competitions, certificates &amp; activities.</b></p>
+  <a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/"><img src="assets/generated/button-gallery.svg" width="229" alt="Explore Amp's portfolio gallery — photos, certificates and activities" /></a>
+
   <p>
     <a href="#about">About</a> &nbsp; / &nbsp;
     <a href="#stack">Tech Stack</a> &nbsp; / &nbsp;
     <a href="#projects">Projects</a> &nbsp; / &nbsp;
+    <a href="#gallery"><b>🌸 Portfolio Gallery</b></a> &nbsp; / &nbsp;
     <a href="#activity">GitHub Pulse</a> &nbsp; / &nbsp;
-    <a href="#credentials">Resume &amp; Certificates</a> &nbsp; / &nbsp;
+    <a href="#credentials">Resume</a> &nbsp; / &nbsp;
     <a href="#cozy">Cozy Corner</a> &nbsp; / &nbsp;
     <a href="#connect">Connect</a>
   </p>
@@ -220,25 +224,35 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
   <p>Public GitHub data. Language counts use each repository's primary language; forks are excluded. Recently pushed projects exclude this profile repository.</p>
 </details>
 
-<a id="credentials"></a>
+<a id="gallery"></a>
 
-## 🌸 05 &nbsp; / &nbsp; Beyond the code
+## 🌸 05 &nbsp; / &nbsp; Portfolio gallery
+
+<p align="center">
+  <a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/">
+    <img src="assets/generated/gallery-showcase.svg" width="720" alt="Explore my portfolio gallery — competitions, certificates and activities. Click to see photos and stories." />
+  </a>
+</p>
+
+**A closer look at what I've built, learned, and been part of.** Explore the photos and stories behind my competitions, training, and extra-curricular activities.
+
+- **🏆 Competitions &amp; awards** — TESA Top Gun Rally 2025, Startup Thailand League, and university competitions.
+- **🎓 Certificates** — cybersecurity, business, and data skills.
+- **📸 Activities** — workshops, campus events, and hands-on learning experiences.
+
+<p align="center">
+  <a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/"><img src="assets/generated/button-gallery.svg" width="229" alt="Open the full portfolio gallery" /></a>
+  <br />
+  <a href="#projects">Looking for source code and demos? Explore my featured projects ↑</a>
+</p>
+
+<a id="credentials"></a>
 
 ### 📄 Resume
 
-Want to know more about my academic background and experiences?
-
-**📂 Download my full resume:**
+For my academic background and experience, explore my full resume:
 
 <a href="https://drive.google.com/file/d/1_k4EzkfgabGb-_Ckyv8APgReRibXGuYx/view?usp=drivesdk"><img src="assets/generated/button-resume.svg" alt="View my full resume on Google Drive" /></a>
-
-### 🏆 Certificates & Activities
-
-Explore my verified achievements, training, and extra-curricular activities:
-
-**📜 View my Gallery:**
-
-<a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/"><img src="assets/generated/button-gallery.svg" alt="View my certificates and activities gallery" /></a>
 
 <img src="assets/generated/divider.svg" width="100%" alt="" />
 
