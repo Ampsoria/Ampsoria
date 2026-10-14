@@ -12,6 +12,7 @@ on:
       - 'assets/icons/**'
       - 'assets/fonts/**'
       - 'assets/illustrations/**'
+      - 'ampreadme.png'
       - '.github/workflows/profile.yml'
 
 permissions:

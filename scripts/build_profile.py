@@ -198,6 +198,20 @@ def accents():
     svg("footer.svg", 1200, 180, b, "Growing through code & curiosity — connect with Amp")
 
 
+def portrait_frame():
+    """Frame the unchanged original photograph with a local sakura SVG."""
+    photograph = base64.b64encode((ROOT / "ampreadme.png").read_bytes()).decode("ascii")
+    b = '<defs><clipPath id="portrait-window"><rect x="32" y="34" width="360" height="369" rx="22"/></clipPath></defs>'
+    b += '<rect x="5" y="5" width="414" height="430" rx="34" fill="#fff2f7" stroke="#dfa2bf" stroke-width="3"/>'
+    b += '<rect x="15" y="15" width="394" height="410" rx="27" fill="none" stroke="#edb8cf" stroke-width="2" stroke-dasharray="3 7"/>'
+    b += '<rect x="27" y="29" width="370" height="379" rx="27" fill="#ffffff" stroke="#efc7d9" stroke-width="2"/>'
+    b += f'<image x="32" y="34" width="360" height="369" preserveAspectRatio="xMidYMid meet" clip-path="url(#portrait-window)" href="data:image/png;base64,{photograph}"/>'
+    b += flower(395, 29, 1.0) + flower(30, 401, .95)
+    b += flower(369, 17, .4) + flower(51, 422, .38)
+    b += '<path d="M188 421h48" stroke="#d38cae" stroke-width="3" stroke-linecap="round"/>'
+    svg("portrait-framed.svg", 424, 440, b, "Amp — Gorrawit Puttabarramee", "Original profile photograph with rounded corners and a pink sakura frame.")
+
+
 def character_ribbons():
     """Compact matching section decorations with self-contained mascot images."""
     layouts = [
@@ -332,6 +346,7 @@ def main():
     hero(light=True)
     stack_tiles()
     accents()
+    portrait_frame()
     character_ribbons()
     dashboard()
     build_extras(svg=svg, text=text, flower=flower, out=OUT)

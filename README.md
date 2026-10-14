@@ -28,7 +28,7 @@
 
 ## 🌸 01 &nbsp; / &nbsp; A little about me
 
-<img src="ampreadme.png" align="right" width="170" alt="Amp — Gorrawit Puttabarramee" />
+<img src="assets/generated/portrait-framed.svg" align="right" width="180" alt="Amp — Gorrawit Puttabarramee, in a pink sakura photo frame" />
 
 I'm a 4th-year Computer Science student at **Huachiew Chalermprakiet University**. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. Having secured an internship, I'm looking forward to applying my foundational skills to real-world challenges, contributing to a team, and learning from experienced professionals.
 

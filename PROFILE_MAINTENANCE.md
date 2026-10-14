@@ -120,3 +120,11 @@ renderer. It adds no network requests, dependencies, tracking, or user scripts.
 
 All animation honors `prefers-reduced-motion`; all meaningful images have alt text.
 The supplementary panels are collapsible to keep the main profile readable.
+
+
+## Portrait frame
+
+`portrait_frame()` embeds the unchanged `ampreadme.png` inside a rounded pink
+SVG frame with a dotted inner border and sakura corner flowers. The README's
+About section uses `assets/generated/portrait-framed.svg`. Updating the original
+photo triggers the artwork workflow; the original file is never overwritten.
