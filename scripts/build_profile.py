@@ -171,14 +171,14 @@ def accents():
     b += flower(600, 24, .8) + flower(560, 24, .35) + flower(640, 24, .35)
     svg("divider.svg", 1200, 48, b, "Sakura blossom divider")
     b = '<rect x="1" y="1" width="1198" height="178" rx="28" fill="#fff2f7" stroke="#edb8cf"/>'
-    b += text(44, 53, "Let's build something lovely together.", 24, "#a15379", 800)
-    b += text(44, 113, "Open to a 4-month internship.", 40, "#843859", 800)
+    b += text(44, 53, "Let's connect and share ideas.", 24, "#a15379", 800)
+    b += text(44, 113, "Growing through code & curiosity.", 40, "#843859", 800)
     b += text(44, 151, "Software  +  security  +  a little curiosity", 18, "#a15379")
     b += '<g clip-path="url(#frame)">' + petals(1200, 180, 12)
     for x,y,size in [(1030,72,1.8),(1110,114,1),(1139,46,.7)]:
         b += flower(x,y,size)
     b += '</g>'
-    svg("footer.svg", 1200, 180, b, "Open to a 4-month internship — let's build something lovely together")
+    svg("footer.svg", 1200, 180, b, "Growing through code & curiosity — connect with Amp")
 
 
 def api(path):

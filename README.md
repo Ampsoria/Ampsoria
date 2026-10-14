@@ -9,7 +9,6 @@
   <h1>🌸 Gorrawit Puttabarramee <sub> / Amp</sub></h1>
   <p><b>B.Sc. Computer Science Student</b><br />Aspiring Software Developer &amp; Cybersecurity Enthusiast</p>
 
-  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIP-4_MONTHS-eaa0be?style=for-the-badge&labelColor=8f4569" alt="Open to a 4-month internship — contact me by email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=PROFILE+VIEWS&color=d889ae&style=for-the-badge" alt="Profile views" />
 
   <p>
@@ -30,7 +29,7 @@
 
 <img src="ampreadme.png" align="right" width="170" alt="Amp — Gorrawit Puttabarramee" />
 
-I'm a 3rd-year Computer Science student at **Huachiew Chalermprakiet University**. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. **I am currently looking for a 4-month internship** to apply my foundational skills to real-world challenges, assist with daily operations, and learn from experienced professionals.
+I'm a 3rd-year Computer Science student at **Huachiew Chalermprakiet University**. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. Having secured an internship, I'm looking forward to applying my foundational skills to real-world challenges, contributing to a team, and learning from experienced professionals.
 
 When I'm taking a break from the screen, I'm usually hitting the bars for some **Calisthenics** or just relaxing with some **games**.
 
@@ -191,7 +190,7 @@ Explore my verified achievements, training, and extra-curricular activities:
 
 ## 🌸 06 &nbsp; / &nbsp; Let's connect!
 
-<a href="mailto:ampsoriainyourarea@gmail.com"><img src="assets/generated/footer.svg" width="100%" alt="Open to a 4-month internship — let's build something lovely together. Email Amp." /></a>
+<a href="mailto:ampsoriainyourarea@gmail.com"><img src="assets/generated/footer.svg" width="100%" alt="Growing through code &amp; curiosity. Connect with Amp by email." /></a>
 
 <div align="center">
   <br />
