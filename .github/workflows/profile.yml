@@ -10,6 +10,8 @@ on:
     paths:
       - 'scripts/**'
       - 'assets/icons/**'
+      - 'assets/fonts/**'
+      - 'assets/illustrations/**'
       - '.github/workflows/profile.yml'
 
 permissions:

@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-labelledby="title desc">
-<title id="title">Animated section divider</title><desc id="desc">Animated section divider</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-labelledby="title desc">
+<title id="title">Sakura blossom divider</title><desc id="desc">Sakura blossom divider</desc>
 <defs>
-  <linearGradient id="accent"><stop stop-color="#8fffd2"/><stop offset=".55" stop-color="#74dcff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
-  <radialGradient id="aura"><stop stop-color="#145665" stop-opacity=".5"/><stop offset="1" stop-color="#0b111b" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91cce2" stroke-opacity=".055"/></pattern>
+
+  <clipPath id="frame"><rect width="1200" height="48" rx="24"/></clipPath>
+  <linearGradient id="accent"><stop stop-color="#ffacd0"/><stop offset=".55" stop-color="#dbb4ff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#d56caa" stop-opacity=".5"/><stop offset="1" stop-color="#251524" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffb2d5" stroke-opacity=".055"/></pattern>
 </defs>
 <style>
+  .petal {animation:petal-fall 15s linear infinite}
+  @keyframes petal-fall {0% {transform:translate(-30px,-500px) rotate(0deg);opacity:0} 12%,85% {opacity:1} 100% {transform:translate(80px,500px) rotate(230deg);opacity:0}}
   .orbit {transform-box:fill-box;transform-origin:center;animation:rotate 38s linear infinite}
   .reverse {animation-direction:reverse;animation-duration:52s}
   .pulse {animation:pulse 4s ease-in-out infinite}
@@ -18,7 +22,7 @@
   @keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-8px)}}
   @keyframes scan {0%,100% {transform:translateX(0);opacity:.15} 50% {transform:translateX(70px);opacity:.65}}
   @keyframes trace {to {stroke-dashoffset:-280}}
-  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace {animation:none!important}}
+  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace,.petal {animation:none!important}}
 </style>
-<path d="M0 14H1200" stroke="#41536a" stroke-opacity=".35"/><path d="M0 14H1200" stroke="url(#accent)" stroke-opacity=".7" class="trace"/>
+<path d="M0 24H545M655 24H1200" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2" class="trace"/><g transform="translate(600 24) scale(0.8)" fill="#ffc2d9"><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(0)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(72)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(144)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(216)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(288)"/><circle r="4" fill="#ffdc9f"/><circle r="2" fill="#c87996"/></g><g transform="translate(560 24) scale(0.35)" fill="#ffc2d9"><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(0)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(72)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(144)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(216)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(288)"/><circle r="4" fill="#ffdc9f"/><circle r="2" fill="#c87996"/></g><g transform="translate(640 24) scale(0.35)" fill="#ffc2d9"><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(0)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(72)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(144)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(216)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(288)"/><circle r="4" fill="#ffdc9f"/><circle r="2" fill="#c87996"/></g>
 </svg>

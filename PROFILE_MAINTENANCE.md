@@ -17,8 +17,8 @@ python3 -m unittest discover -s scripts -p 'test_*.py' -v
 Edit `scripts/build_profile.py` for artwork, colors, labels, or layouts. Generated
 SVGs live in `assets/generated/`. Their `<title>` and `<desc>` elements supply
 accessible descriptions. README images also provide alt text. Animation uses SVG
-CSS; `prefers-reduced-motion` disables it without hiding any information. There
-are no scripts, external fonts, or externally loaded images inside the SVGs.
+CSS; `prefers-reduced-motion` disables it without hiding any information. The sakura hero embeds the original mascot PNG as a data URI. There are no
+scripts, external fonts, or externally loaded images inside the SVGs.
 
 The header uses `<picture>` for light/dark variants. Tech cards wrap individually
 on narrow screens. Navigation, contact links, and the expandable activity panel
@@ -58,3 +58,25 @@ commits and individual source URLs are recorded in `assets/icons/sources.json`.
 License texts are included alongside those sources. Brand marks remain the
 property of their owners. TCP/IP and Nmap use custom network/radar illustrations;
 they are not presented as official logos.
+
+
+## Sakura theme and typography
+
+The theme uses blush pink, rose, and plum, with drifting sakura petals, blossom
+separators, an animated mascot, and pale pink tech cards. Light/dark hero variants
+and mobile statistics layouts are preserved. Original brand logos retain their
+source colors. All motion respects `prefers-reduced-motion`.
+
+[Nunito](https://github.com/google/fonts/tree/main/ofl/nunito) is licensed under
+SIL OFL 1.1; the original font, license, source commit, and prepared glyph outlines
+live in `assets/fonts/`. SVG lettering is rendered as paths with accessible labels,
+so it looks consistent without downloading fonts. GitHub controls the font of
+normal README body text. The daily build still uses only Python's standard library.
+To prepare glyphs again after intentionally updating the font, install `fonttools`
+in a separate environment and run `python scripts/prepare_font.py` once. Commit the
+resulting `assets/fonts/glyphs.json` alongside the font source.
+
+The original anime mascot is `assets/illustrations/sakura-coder.png`, generated
+with the built-in image generation tool. Its exact prompt is recorded in
+`assets/illustrations/README.md`. The transparent original is embedded directly in
+the hero SVGs; no image-generation service is called by scheduled builds.

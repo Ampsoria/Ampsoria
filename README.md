@@ -3,14 +3,14 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/generated/hero-light.svg" />
-    <img src="assets/generated/hero-dark.svg" alt="Hi, I'm Amp. Aspiring Software Developer & Cybersecurity Enthusiast. Code. Connect. Keep learning." width="100%" />
+    <img src="assets/generated/hero-dark.svg" alt="Hi, I'm Amp. Aspiring Software Developer & Cybersecurity Enthusiast. Code. Connect. Keep blooming. An original anime programmer surrounded by falling sakura petals." width="100%" />
   </picture>
 
-  <h1>Gorrawit Puttabarramee <sub> / Amp</sub></h1>
+  <h1>🌸 Gorrawit Puttabarramee <sub> / Amp</sub></h1>
   <p><b>B.Sc. Computer Science Student</b><br />Aspiring Software Developer &amp; Cybersecurity Enthusiast</p>
 
-  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIP-4_MONTHS-8fffd2?style=for-the-badge&labelColor=142332" alt="Open to a 4-month internship — contact me by email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=PROFILE+VIEWS&color=237e83&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIP-4_MONTHS-eaa0be?style=for-the-badge&labelColor=8f4569" alt="Open to a 4-month internship — contact me by email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=PROFILE+VIEWS&color=d889ae&style=for-the-badge" alt="Profile views" />
 
   <p>
     <a href="#about">About</a> &nbsp; / &nbsp;
@@ -26,7 +26,7 @@
 
 <a id="about"></a>
 
-## 01 &nbsp; / &nbsp; A little about me
+## 🌸 01 &nbsp; / &nbsp; A little about me
 
 <img src="ampreadme.png" align="right" width="170" alt="Amp — Gorrawit Puttabarramee" />
 
@@ -40,7 +40,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 
 <a id="stack"></a>
 
-## 02 &nbsp; / &nbsp; The tools behind the ideas
+## 🌸 02 &nbsp; / &nbsp; The tools behind the ideas
 
 **Programming languages**
 
@@ -93,7 +93,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 
 <a id="projects"></a>
 
-## 03 &nbsp; / &nbsp; Ideas, turned into projects
+## 🌸 03 &nbsp; / &nbsp; Ideas, turned into projects
 
 ### 🛡️ Anti-Drone System
 
@@ -103,8 +103,8 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 - Engineered **MATLAB** autonomous flight algorithms to neutralize targets.
 - Built a **React** dashboard displaying live GPS telemetry.
 
-<a href="https://github.com/Ampsoria/Anti-Drone"><img src="https://img.shields.io/badge/Source_Code-142332?style=for-the-badge&logo=github&logoColor=8fffd2" alt="Anti-Drone — view repository" /></a>
-<a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX"><img src="https://img.shields.io/badge/Watch_Demo-142332?style=for-the-badge&logo=youtube&logoColor=ff8596" alt="Anti-Drone — watch demo on YouTube" /></a>
+<a href="https://github.com/Ampsoria/Anti-Drone"><img src="https://img.shields.io/badge/Source_Code-fff0f6?style=for-the-badge&logo=github&logoColor=ac557b" alt="Anti-Drone — view repository" /></a>
+<a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX"><img src="https://img.shields.io/badge/Watch_Demo-fff0f6?style=for-the-badge&logo=youtube&logoColor=b14e77" alt="Anti-Drone — watch demo on YouTube" /></a>
 
 ---
 
@@ -116,8 +116,8 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 - Built with **HTML5**, **CSS3**, and **Vanilla JavaScript** featuring 30+ attractions with real photos.
 - Includes interactive **Leaflet.js** map, budget/style filters, zone-based recommendations, and CNY-THB converter.
 
-<a href="https://github.com/Ampsoria/Shanghai_Solotrip_Guideweb"><img src="https://img.shields.io/badge/Source_Code-142332?style=for-the-badge&logo=github&logoColor=8fffd2" alt="Shanghai Solo Trip Guide — view repository" /></a>
-<a href="https://ampsoria.github.io/Shanghai_Solotrip_Guideweb/"><img src="https://img.shields.io/badge/Explore_Live_Demo-142332?style=for-the-badge&logo=githubpages&logoColor=74dcff" alt="Shanghai Solo Trip Guide — open live demo" /></a>
+<a href="https://github.com/Ampsoria/Shanghai_Solotrip_Guideweb"><img src="https://img.shields.io/badge/Source_Code-fff0f6?style=for-the-badge&logo=github&logoColor=ac557b" alt="Shanghai Solo Trip Guide — view repository" /></a>
+<a href="https://ampsoria.github.io/Shanghai_Solotrip_Guideweb/"><img src="https://img.shields.io/badge/Explore_Live_Demo-fff0f6?style=for-the-badge&logo=githubpages&logoColor=ac557b" alt="Shanghai Solo Trip Guide — open live demo" /></a>
 
 ---
 
@@ -129,7 +129,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 - Developed a hybrid platform integrating **Java Swing** and **PHP** with **BCrypt** security.
 - Designed role-based dashboards for real-time monitoring.
 
-<a href="https://github.com/Ampsoria/HCU_ParkingSystem"><img src="https://img.shields.io/badge/Source_Code-142332?style=for-the-badge&logo=github&logoColor=8fffd2" alt="Parking Management System — view repository" /></a>
+<a href="https://github.com/Ampsoria/HCU_ParkingSystem"><img src="https://img.shields.io/badge/Source_Code-fff0f6?style=for-the-badge&logo=github&logoColor=ac557b" alt="Parking Management System — view repository" /></a>
 
 ---
 
@@ -140,13 +140,13 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 - Developed an educational Augmented Reality (AR) application using **Unity** to visualize computer hardware.
 - Created interactive 3D models for users to study essential internal components such as CPUs, GPUs, RAM, and Mainboards.
 
-<a href="https://youtu.be/Auz_2eqdpGE"><img src="https://img.shields.io/badge/Watch_Demo-142332?style=for-the-badge&logo=youtube&logoColor=ff8596" alt="AR Computer Components Explorer — watch demo on YouTube" /></a>
+<a href="https://youtu.be/Auz_2eqdpGE"><img src="https://img.shields.io/badge/Watch_Demo-fff0f6?style=for-the-badge&logo=youtube&logoColor=b14e77" alt="AR Computer Components Explorer — watch demo on YouTube" /></a>
 
 <img src="assets/generated/divider.svg" width="100%" alt="" />
 
 <a id="activity"></a>
 
-## 04 &nbsp; / &nbsp; GitHub pulse
+## 🌸 04 &nbsp; / &nbsp; GitHub pulse
 
 <a href="https://github.com/Ampsoria?tab=repositories">
   <picture>
@@ -167,7 +167,7 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 
 <a id="credentials"></a>
 
-## 05 &nbsp; / &nbsp; Beyond the code
+## 🌸 05 &nbsp; / &nbsp; Beyond the code
 
 ### 📄 Resume
 
@@ -175,7 +175,7 @@ Want to know more about my academic background and experiences?
 
 **📂 Download my full resume:**
 
-<a href="https://drive.google.com/file/d/1_k4EzkfgabGb-_Ckyv8APgReRibXGuYx/view?usp=drivesdk"><img src="https://img.shields.io/badge/View_My_Resume-8fffd2?style=for-the-badge&logo=googledocs&logoColor=142332" alt="View my full resume on Google Drive" /></a>
+<a href="https://drive.google.com/file/d/1_k4EzkfgabGb-_Ckyv8APgReRibXGuYx/view?usp=drivesdk"><img src="https://img.shields.io/badge/View_My_Resume-eaa0be?style=for-the-badge&logo=googledocs&logoColor=843859" alt="View my full resume on Google Drive" /></a>
 
 ### 🏆 Certificates & Activities
 
@@ -183,22 +183,22 @@ Explore my verified achievements, training, and extra-curricular activities:
 
 **📜 View my Gallery:**
 
-<a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/"><img src="https://img.shields.io/badge/Explore_the_Gallery-74dcff?style=for-the-badge&logo=githubpages&logoColor=142332" alt="View my certificates and activities gallery" /></a>
+<a href="https://ampsoria.github.io/Ampsoria_ActivitiesandCertificates_ArchiveWebpage/"><img src="https://img.shields.io/badge/Explore_the_Gallery-f3b9d4?style=for-the-badge&logo=githubpages&logoColor=843859" alt="View my certificates and activities gallery" /></a>
 
 <img src="assets/generated/divider.svg" width="100%" alt="" />
 
 <a id="connect"></a>
 
-## 06 &nbsp; / &nbsp; Let's connect!
+## 🌸 06 &nbsp; / &nbsp; Let's connect!
 
-<a href="mailto:ampsoriainyourarea@gmail.com"><img src="assets/generated/footer.svg" width="100%" alt="Open to a 4-month internship — let's build something meaningful. Email Amp." /></a>
+<a href="mailto:ampsoriainyourarea@gmail.com"><img src="assets/generated/footer.svg" width="100%" alt="Open to a 4-month internship — let's build something lovely together. Email Amp." /></a>
 
 <div align="center">
   <br />
-  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/Email-142332?style=for-the-badge&logo=gmail&logoColor=ff8596" alt="Email: ampsoriainyourarea@gmail.com" /></a>
-  <a href="https://github.com/Ampsoria"><img src="https://img.shields.io/badge/GitHub-142332?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub: Ampsoria" /></a>
-  <a href="https://line.me/ti/p/_Fi2eW968Q"><img src="https://img.shields.io/badge/LINE-142332?style=for-the-badge&logo=line&logoColor=8fffd2" alt="LINE ID: amp2648" /></a>
-  <a href="tel:+66654986129"><img src="https://img.shields.io/badge/(%2B66)_65--498--6129-142332?style=for-the-badge" alt="Phone: (+66) 65-498-6129" /></a>
+  <a href="mailto:ampsoriainyourarea@gmail.com"><img src="https://img.shields.io/badge/Email-fff0f6?style=for-the-badge&logo=gmail&logoColor=b14e77" alt="Email: ampsoriainyourarea@gmail.com" /></a>
+  <a href="https://github.com/Ampsoria"><img src="https://img.shields.io/badge/GitHub-fff0f6?style=for-the-badge&logo=github&logoColor=843859" alt="GitHub: Ampsoria" /></a>
+  <a href="https://line.me/ti/p/_Fi2eW968Q"><img src="https://img.shields.io/badge/LINE-fff0f6?style=for-the-badge&logo=line&logoColor=ac557b" alt="LINE ID: amp2648" /></a>
+  <a href="tel:+66654986129"><img src="https://img.shields.io/badge/(%2B66)_65--498--6129-fff0f6?style=for-the-badge" alt="Phone: (+66) 65-498-6129" /></a>
   <p>ampsoriainyourarea@gmail.com<br />LINE: amp2648 &nbsp; · &nbsp; (+66) 65-498-6129</p>
   <br />
   <a href="#top">↑ Back to top</a>

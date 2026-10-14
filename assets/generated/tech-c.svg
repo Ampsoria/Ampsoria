@@ -1,11 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="148" viewBox="0 0 128 148" role="img" aria-labelledby="title desc">
 <title id="title">C</title><desc id="desc">C — Amp&#x27;s languages and tools</desc>
 <defs>
-  <linearGradient id="accent"><stop stop-color="#8fffd2"/><stop offset=".55" stop-color="#74dcff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
-  <radialGradient id="aura"><stop stop-color="#145665" stop-opacity=".5"/><stop offset="1" stop-color="#0b111b" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91cce2" stroke-opacity=".055"/></pattern>
+<path id="font-800-67" d="M412.52 -10.63Q299.07 -10.63 217.91 34.19Q136.75 79 93.34 160.66Q49.93 242.31 49.93 353Q49.93 435.69 74.71 502.34Q99.49 569 146.22 616.66Q192.94 664.31 260.32 689.97Q327.7 715.63 412.52 715.63Q463.13 715.63 514.41 703.19Q565.69 690.76 604.43 667.58Q629.19 653.64 638.07 632.79Q646.95 611.94 643.26 591.15Q639.58 570.36 626.29 555.07Q613.01 539.78 592.79 535.78Q572.57 531.77 548.37 545.15Q518 562.64 485.13 570.7Q452.26 578.76 417.77 578.76Q351.16 578.76 305.76 552.42Q260.36 526.09 237.4 476.1Q214.43 426.11 214.43 353Q214.43 280.58 237.4 229.75Q260.36 178.91 305.76 152.58Q351.16 126.24 417.77 126.24Q450.13 126.24 483.69 134.17Q517.24 142.11 548.05 158.97Q573.81 172.29 594.28 168.6Q614.76 164.9 628.17 150.46Q641.58 136.01 645.42 115.91Q649.26 95.81 641.23 75.8Q633.19 55.8 611.12 42.17Q573.63 17.24 520.01 3.31Q466.39 -10.63 412.52 -10.63Z"/>
+  <clipPath id="frame"><rect width="128" height="148" rx="24"/></clipPath>
+  <linearGradient id="accent"><stop stop-color="#ffacd0"/><stop offset=".55" stop-color="#dbb4ff"/><stop offset="1" stop-color="#b8a2ff"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#d56caa" stop-opacity=".5"/><stop offset="1" stop-color="#251524" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffb2d5" stroke-opacity=".055"/></pattern>
 </defs>
 <style>
+  .petal {animation:petal-fall 15s linear infinite}
+  @keyframes petal-fall {0% {transform:translate(-30px,-500px) rotate(0deg);opacity:0} 12%,85% {opacity:1} 100% {transform:translate(80px,500px) rotate(230deg);opacity:0}}
   .orbit {transform-box:fill-box;transform-origin:center;animation:rotate 38s linear infinite}
   .reverse {animation-direction:reverse;animation-duration:52s}
   .pulse {animation:pulse 4s ease-in-out infinite}
@@ -18,7 +22,7 @@
   @keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-8px)}}
   @keyframes scan {0%,100% {transform:translateX(0);opacity:.15} 50% {transform:translateX(70px);opacity:.65}}
   @keyframes trace {to {stroke-dashoffset:-280}}
-  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace {animation:none!important}}
+  @media (prefers-reduced-motion:reduce) {.orbit,.pulse,.float,.scan,.blink,.trace,.petal {animation:none!important}}
 </style>
-<rect x="1" y="1" width="126" height="146" rx="18" fill="#101a27" stroke="#2b3b4e"/><rect x="17" y="17" width="94" height="83" rx="15" fill="#77a9ff" opacity=".055"/><g transform="translate(37 32) scale(.421875)"><svg width="128" height="128" viewBox="0 0 128 128" fill="#77a9ff"><path fill="#a9bacd" d="M125 50c-4-32-24-50-62-50C29 0 3 24 3 64c0 39 24 64 64 64 32 0 55-19 58-50H87c-2 11-8 20-20 20-21 0-24-16-24-33 0-23 8-35 22-35 13 0 20 7 22 20z" /></svg></g><text x="64" y="121" fill="#e6f0fa" font-size="12" font-weight="600" font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">C</text><path d="M45 136h38" stroke="#77a9ff" stroke-width="2" stroke-linecap="round" class="pulse" style="animation-delay:-2s"/>
+<rect x="1" y="1" width="126" height="146" rx="18" fill="#fff2f7" stroke="#f0bbd2"/><rect x="17" y="17" width="94" height="83" rx="15" fill="#77a9ff" opacity=".055"/><g transform="translate(37 32) scale(.421875)"><svg width="128" height="128" viewBox="0 0 128 128" fill="#77a9ff"><path fill="#a9bacd" d="M125 50c-4-32-24-50-62-50C29 0 3 24 3 64c0 39 24 64 64 64 32 0 55-19 58-50H87c-2 11-8 20-20 20-21 0-24-16-24-33 0-23 8-35 22-35 13 0 20 7 22 20z" /></svg></g><g transform="translate(110 18) scale(0.28)" fill="#ffc2d9"><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(0)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(72)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(144)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(216)"/><ellipse cx="0" cy="-11" rx="7" ry="11" transform="rotate(288)"/><circle r="4" fill="#ffdc9f"/><circle r="2" fill="#c87996"/></g><g fill="#763754" role="img" aria-label="C"><title>C</title><use href="#font-800-67" transform="translate(59.55 121) scale(0.01300 -0.01300)"/></g><path d="M45 136h38" stroke="#77a9ff" stroke-width="2" stroke-linecap="round" class="pulse" style="animation-delay:-2s"/>
 </svg>
