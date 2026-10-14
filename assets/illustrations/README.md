@@ -1,5 +1,21 @@
 # Sakura coder mascot
 
+## Section companion illustrations · 2026-10-14
+
+Created with the built-in `image_gen` tool, using `sakura-coder.png` as the edit
+reference for a consistent male character. Transparent PNG originals:
+
+- `sakura-study.png`: studying companion used in the Tech Stack ribbon.
+- `sakura-maker.png`: robot-building companion used in the Projects ribbon.
+
+Exact study prompt:
+
+> Use case: precise-object-edit. Edit target: the attached original male sakura coder mascot. Create a matching transparent full-body sticker of EXACTLY THE SAME young-adult male chibi anime character in a new studying pose. Preserve his short tousled dark brown boyish hair with exposed ears and short nape, round black glasses, cheerful male face, rose-pink oversized hoodie with sakura embroidery, ivory trousers, pink blossom sneakers, delicate detailed anime shading and warm plum line art. Change the pose to seated comfortably cross-legged, holding and reading an open cream-and-pink book with both hands, looking up with a gentle interested smile. Remove the laptop and waving pose. Add two tiny sakura petals and a very small four-point sparkle beside his head. Same body proportions and high quality detail as the reference. Entire character visible, centered with transparent margin, square composition, genuine transparent background. No text, no lettering on the book, no logo, no watermark. Keep his design clearly male and the pink sakura aesthetic. This is a small decorative README sticker, clean silhouette and no background scene.
+
+Exact maker prompt:
+
+> Use case: precise-object-edit. Edit target: the attached original male sakura coder mascot. Create a matching transparent full-body sticker of EXACTLY THE SAME young-adult male chibi anime character in a new maker pose for the projects section of a GitHub README. Preserve his short tousled dark brown boyish hair with exposed ears and short nape, round black glasses, cheerful male face, rose-pink oversized hoodie with sakura embroidery, ivory trousers, pink blossom sneakers, delicate highly detailed anime shading and warm plum line art. Change the pose: seated cross-legged, proudly holding a tiny adorable rounded cream-and-pink toy robot in his lap with one hand, the other hand holds a small screwdriver beside it. The robot has a simple friendly face with two dot eyes, little antenna and tiny sakura emblem. Remove the laptop and waving pose. He smiles happily at the viewer. Add two small floating sakura petals and a tiny sparkle. Entire character visible, centered with transparent margins, square composition, genuine transparent background. Same character proportions, cozy pink sakura aesthetic and polished quality. No text, no lettering, no logos, no watermark, no background scene. Make silhouette clear at small sizes and preserve clearly male character design.
+
 Asset: `sakura-coder.png` (transparent PNG).
 Created with the built-in `image_gen` tool on 2026-10-14 for this profile.
 Original decorative character, not a portrait or an existing anime character.

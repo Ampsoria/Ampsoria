@@ -7,7 +7,7 @@
   </picture>
 
   <h1>🌸 Gorrawit Puttabarramee <sub> / Amp</sub></h1>
-  <p><b>B.Sc. Computer Science Student</b><br />Aspiring Software Developer &amp; Cybersecurity Enthusiast</p>
+  <p><b>4th-year B.Sc. Computer Science Student</b><br />Aspiring Software Developer &amp; Cybersecurity Enthusiast</p>
 
   <img src="https://komarev.com/ghpvc/?username=Ampsoria&label=PROFILE+VIEWS&color=d889ae&style=for-the-badge" alt="Profile views" />
 
@@ -29,7 +29,7 @@
 
 <img src="ampreadme.png" align="right" width="170" alt="Amp — Gorrawit Puttabarramee" />
 
-I'm a 3rd-year Computer Science student at **Huachiew Chalermprakiet University**. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. Having secured an internship, I'm looking forward to applying my foundational skills to real-world challenges, contributing to a team, and learning from experienced professionals.
+I'm a 4th-year Computer Science student at **Huachiew Chalermprakiet University**. I am a cooperative and friendly team player who is passionate about coding, system design, and exploring network security. Having secured an internship, I'm looking forward to applying my foundational skills to real-world challenges, contributing to a team, and learning from experienced professionals.
 
 When I'm taking a break from the screen, I'm usually hitting the bars for some **Calisthenics** or just relaxing with some **games**.
 
@@ -40,6 +40,10 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 <a id="stack"></a>
 
 ## 🌸 02 &nbsp; / &nbsp; The tools behind the ideas
+
+<p align="center">
+  <img src="assets/generated/study-ribbon.svg" width="720" alt="Anime study companion reading a book — a little toolkit, a lot of curiosity." />
+</p>
 
 **Programming languages**
 
@@ -108,6 +112,10 @@ When I'm taking a break from the screen, I'm usually hitting the bars for some *
 <a id="projects"></a>
 
 ## 🌸 03 &nbsp; / &nbsp; Ideas, turned into projects
+
+<p align="center">
+  <img src="assets/generated/maker-ribbon.svg" width="720" alt="Anime maker companion building a tiny robot — small ideas, real-world projects." />
+</p>
 
 ### 🛡️ Anti-Drone System
 
@@ -204,6 +212,10 @@ Explore my verified achievements, training, and extra-curricular activities:
 <a id="connect"></a>
 
 ## 🌸 06 &nbsp; / &nbsp; Let's connect!
+
+<p align="center">
+  <img src="assets/illustrations/sakura-coder.png" width="150" alt="Sakura programmer mascot waving hello" />
+</p>
 
 <a href="mailto:ampsoriainyourarea@gmail.com"><img src="assets/generated/footer.svg" width="100%" alt="Growing through code &amp; curiosity. Connect with Amp by email." /></a>
 

@@ -138,9 +138,9 @@ def hero(light=False):
     portrait = base64.b64encode((ROOT / 'assets/illustrations/sakura-coder.png').read_bytes()).decode('ascii')
     b += f'<g class="float"><image x="748" y="86" width="412" height="380" href="data:image/png;base64,{portrait}"/></g>'
     b += petals(1200, 500)
-    b += text(52, 468, "B.Sc. Computer Science  /  Learning one day at a time", 15, muted)
+    b += text(52, 468, "4th-year B.Sc. Computer Science  /  Learning one day at a time", 15, muted)
     b += '</g>'
-    svg(f'hero-{"light" if light else "dark"}.svg', 1200, 500, b, "Hi, I'm Amp — aspiring software developer and cybersecurity enthusiast", "Pink sakura garden with falling petals, a floating original anime programmer mascot and rounded Nunito lettering. B.Sc. Computer Science student.")
+    svg(f'hero-{"light" if light else "dark"}.svg', 1200, 500, b, "Hi, I'm Amp — aspiring software developer and cybersecurity enthusiast", "Pink sakura garden with falling petals, a floating original anime programmer mascot and rounded Nunito lettering. 4th-year B.Sc. Computer Science student.")
 
 
 def icon_markup(slug, color):
@@ -191,6 +191,28 @@ def accents():
         b += flower(x,y,size)
     b += '</g>'
     svg("footer.svg", 1200, 180, b, "Growing through code & curiosity — connect with Amp")
+
+
+def character_ribbons():
+    """Compact matching section decorations with self-contained mascot images."""
+    layouts = [
+        ("study", "A little toolkit.", "A lot of curiosity.", "Learn / experiment / grow", False),
+        ("maker", "Small ideas.", "Real-world projects.", "Explore / build / improve", True),
+    ]
+    for character, line1, line2, caption, right in layouts:
+        image_x, text_x = (490, 36) if right else (24, 254)
+        art = base64.b64encode((ROOT / f'assets/illustrations/sakura-{character}.png').read_bytes()).decode('ascii')
+        b = '<rect x="1" y="1" width="718" height="218" rx="30" fill="#fff2f7" stroke="#edb8cf"/>'
+        b += '<rect x="9" y="9" width="702" height="202" rx="24" fill="none" stroke="#f0c2d8" stroke-dasharray="3 7"/>'
+        b += f'<ellipse cx="{image_x+100}" cy="112" rx="103" ry="96" fill="#fbe0ec"/>'
+        b += f'<g class="float"><image x="{image_x}" y="12" width="200" height="196" href="data:image/png;base64,{art}"/></g>'
+        b += text(text_x, 83, line1, 31, "#843859", 800)
+        b += text(text_x, 126, line2, 31, "#843859", 800)
+        b += text(text_x, 165, caption, 17, "#a15379", 600)
+        b += '<g clip-path="url(#frame)">' + petals(720, 220, 7) + '</g>'
+        b += flower(684 if not right else 452, 38, .55)
+        svg(f"{character}-ribbon.svg", 720, 220, b, line1 + " " + line2,
+            "Original male anime sakura mascot, softly floating with falling petals. " + caption + ".")
 
 
 def api(path):
@@ -305,6 +327,7 @@ def main():
     hero(light=True)
     stack_tiles()
     accents()
+    character_ribbons()
     dashboard()
     print(f"Built {len(list(OUT.glob('*.svg')))} SVG assets")
 

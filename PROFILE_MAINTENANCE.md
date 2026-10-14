@@ -81,3 +81,13 @@ The original anime mascot is `assets/illustrations/sakura-coder.png`, generated
 with the built-in image generation tool. Its exact prompt is recorded in
 `assets/illustrations/README.md`. The transparent original is embedded directly in
 the hero SVGs; no image-generation service is called by scheduled builds.
+
+## Section companions
+
+The README now identifies Amp as a **4th-year** Computer Science student, including
+its introduction and both hero variants. `character_ribbons()` builds the study
+and maker ribbons from `sakura-study.png` and `sakura-maker.png`. The study ribbon
+introduces the Tech Stack; the maker ribbon introduces Projects. A small waving
+mascot also decorates the contact section. All original PNGs and exact generation
+prompts are in `assets/illustrations/`. Ribbons have rounded Nunito lettering,
+falling petals and gentle floating motion, with reduced-motion support.
