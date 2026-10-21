@@ -1,21 +1,31 @@
 {
   "account": "Ampsoria",
-  "updated_at": "2026-10-20 07:39 UTC",
-  "public_repos": 26,
+  "updated_at": "2026-10-21 07:43 UTC",
+  "public_repos": 28,
   "followers": 20,
   "stars": 1,
-  "original_repos": 26,
+  "original_repos": 28,
   "languages": {
     "JavaScript": 6,
     "Swift": 1,
-    "Python": 4,
+    "Python": 5,
     "HTML": 3,
     "C#": 2,
     "CSS": 1,
-    "TypeScript": 4,
+    "TypeScript": 5,
     "PHP": 2
   },
   "recent": [
+    {
+      "name": "Spider-Lab",
+      "language": "TypeScript",
+      "pushed_at": "2026-10-21"
+    },
+    {
+      "name": "RatAI_Lesson_AutoCompleter",
+      "language": "Python",
+      "pushed_at": "2026-10-21"
+    },
     {
       "name": "Pokemon-LetsGo-Pikachu-GuideWeb",
       "language": "\u2014",
@@ -25,16 +35,6 @@
       "name": "Ampsoria_ActivitiesandCertificates_ArchiveWebpage",
       "language": "HTML",
       "pushed_at": "2026-10-14"
-    },
-    {
-      "name": "AwareFlow-with-Ai-Agent",
-      "language": "Python",
-      "pushed_at": "2026-10-14"
-    },
-    {
-      "name": "AmpNorch-MacOS-Application",
-      "language": "Swift",
-      "pushed_at": "2026-09-30"
     }
   ]
 }
