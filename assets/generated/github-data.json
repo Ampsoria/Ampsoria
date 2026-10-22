@@ -1,21 +1,32 @@
 {
   "account": "Ampsoria",
-  "updated_at": "2026-10-21 07:43 UTC",
-  "public_repos": 28,
+  "updated_at": "2026-10-22 07:39 UTC",
+  "public_repos": 30,
   "followers": 20,
   "stars": 1,
-  "original_repos": 28,
+  "original_repos": 30,
   "languages": {
     "JavaScript": 6,
     "Swift": 1,
     "Python": 5,
     "HTML": 3,
     "C#": 2,
+    "PLpgSQL": 1,
     "CSS": 1,
     "TypeScript": 5,
     "PHP": 2
   },
   "recent": [
+    {
+      "name": "Amp-Useless-Web",
+      "language": "\u2014",
+      "pushed_at": "2026-10-22"
+    },
+    {
+      "name": "Dek-Huachiew-notes",
+      "language": "PLpgSQL",
+      "pushed_at": "2026-10-21"
+    },
     {
       "name": "Spider-Lab",
       "language": "TypeScript",
@@ -25,16 +36,6 @@
       "name": "RatAI_Lesson_AutoCompleter",
       "language": "Python",
       "pushed_at": "2026-10-21"
-    },
-    {
-      "name": "Pokemon-LetsGo-Pikachu-GuideWeb",
-      "language": "\u2014",
-      "pushed_at": "2026-10-15"
-    },
-    {
-      "name": "Ampsoria_ActivitiesandCertificates_ArchiveWebpage",
-      "language": "HTML",
-      "pushed_at": "2026-10-14"
     }
   ]
 }
